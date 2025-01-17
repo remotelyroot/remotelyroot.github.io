@@ -22,7 +22,7 @@ From there I worked my way into a Jr. Network Engineer role working for a slight
 
 After working as Jr. Network Engineer I finally was able to get my foot in the door in a Cybersecurity role as an Information System Security Officer (ISSO) for the federal government. An ISSO mainly works in the governance, readiness, and compliance (GRC) field/area of Cybersecurity. There are many different fields/areas of Cybersecurity and we will get to that shortly so you can decide on the route you want to take to give yourself a fulfilling career. This role consisted of ensuring the environment I was “in-charge” of met regulatory compliance and OPM guidelines. It involved me reviewing Tenable reports, which is a vulnerability management software and communicating with the System and Network administrators to ensure those vulnerabilities were remediated. If they were unable to be remediated due to potentially affecting the availability of other applications in the environment, justification letters had to be requested and someone much much higher had to sign off and accept the risk. I did not stay in this role much longer, due to an amazing opportunity of what I actually wanted to do came up… a Tier 1 (T1) Security Analyst position work in a Security Operations Center (SOC).
 
-When I interviewed for the T1 SOC Analyst position I was STOKED!!! What a great opportunity to be offered. At the end of the interview I was asked a quite comical question “Do you like vinegar or mustard based BBQ sauce?” I laughed haha, now I’m not going to tell you my answer, but you get to ponder that for yourself. As a SOC analyst we work on triaging alerts that come into a Ticket Management System. A lot of this work relies on alert based tools such as System Information and Event Monitoring (SIEM), Endpoint Detection and Response (EDR), and Firewall/Intrusion Prevention/Detection System (IPS/IDS). If you’re in a more established SOC role, hopefully you’ll have what are called Play Books that provide a step-by-step instruction depending on the use case (alert) being triggered. For example, you can have an alert that triggers when a machine in your environment establishes a connection to an IP address that has been reported by intelligence sources as potentially malicious. You’d follow a Play Book that has a step-by-step process on how to investigate this alert via the SIEM and EDR. This is vital to streamlining processes and increasing workflow for your SOC analysts. A good resource for how a SOC works would be the book ‘Blue Team Handbook: SOC, SIEM, and Threat Hunting (V1.02) A condensed Guide for Security Operations Team and Threat Hunter’ by Don Murdoch. Don Murdoch has over 20 years of IT and InfoSec experience and has a great relationship working with SANS. (More on SANS later).
+When I interviewed for the T1 SOC Analyst position I was STOKED!!! What a great opportunity to be offered. At the end of the interview I was asked a quite comical question “Do you like vinegar or mustard based BBQ sauce?” I laughed haha, now I’m not going to tell you my answer, but you get to ponder that for yourself. As a SOC analyst we work on triaging alerts that come into a Ticket Management System. A lot of this work relies on alert based tools such as System Information and Event Monitoring (SIEM), Endpoint Detection and Response (EDR), and Firewall/Intrusion Prevention/Detection System (IPS/IDS). If you’re in a more established SOC role, hopefully you’ll have what are called Play Books that provide a step-by-step instruction depending on the use case (alert) being triggered. For example, you can have an alert that triggers when a machine in your environment establishes a connection to an IP address that has been reported by intelligence sources as potentially malicious. You’d follow a Play Book that has a step-by-step process on how to investigate this alert via the SIEM and EDR. This is vital to streamlining processes and increasing workflow for your SOC analysts. A good resource for how a SOC works would be the book [‘Blue Team Handbook: SOC, SIEM, and Threat Hunting (V1.02) A condensed Guide for Security Operations Team and Threat Hunter’ by Don Murdoch](https://amzn.to/3PHaAes). Don Murdoch has over 20 years of IT and InfoSec experience and has a great relationship working with SANS. (More on SANS later).
 
 After a year of working as a T1 SOC Analyst, I was given the opportunity for a lateral promotion within the organization as a Sr. Threat Hunting analyst. Threat hunting in general is relatively new to the Cybersecurity industry. The purpose of this role is to proactively look for threats in the environment that your tools were unable to catch, and yes this happens more often than not, especially when dealing with sophisticated threat actors or Advanced Persistent Threats (APTs). As a Threat Hunter you’ll work closely with your Cyber Threat Intelligence (CTI) team to gather Open Source Intelligence (OSINT). The OSINT data can pertain to an APT’s Tactics, Techniques, and Procedures (TTPs) on how they compromise a network environment. You’ll investigate potentially exploited vulnerabilities in your environment and look for compromise. You will also hunt malware and use forensic analysis reports to help understand how the malware executes on a system and what files, registries, and directories to look in. It’s a pretty neat gig and there's so much more. This is my current position and I’m happy to have this opportunity, it’s pretty much a dream job for me. 
 
@@ -37,7 +37,7 @@ So let’s get to it…
 Cybersecurity Roles
 
 ## Security Operations Analyst
-This is probably one of the most common roles you’ll hear about in the security industry. You’ll be responsible for monitoring, detecting, analyzing, and responding to security threats and incidents within an organization's environment. They play a crucial role in safeguarding the organization’s data, systems, and networks by identifying vulnerabilities and mitigating risks. As mentioned previously in my ‘About Me’, you’ll respond to SIEM, EDR, and Firewall/IDS/IPS alerts and triage these incidents. You’ll need technical skills such as understanding how a SIEM and EDR function, how to analyze logs and correlate the events with one another, you’ll also need to know how TCP/IP works, how Domain Name Systems (DNS) works, and the Internet Protocol (IP) and much more. Soft skills are very important as well; it is crucial that you have communication skills, verbal and written. Although we are IT professionals, sometimes we are socially awkward, and that’s okay. I’d like to say written skills over verbal, you’ll be conducting write-ups of your investigations and you’ll need to elaborate why you looked at xyz log for xyz reason and how it can or cannot be malicious in nature. This is so other analysts can reference your investigation if a similar alert or incident occurs in the environment. An amazing book that some of our analysts reference is the ‘Effective Threat Investigation for SOC Analysts: The ultimate guide to examining various threats and attacker techniques using security logs’ by Mostafa Yahia.
+This is probably one of the most common roles you’ll hear about in the security industry. You’ll be responsible for monitoring, detecting, analyzing, and responding to security threats and incidents within an organization's environment. They play a crucial role in safeguarding the organization’s data, systems, and networks by identifying vulnerabilities and mitigating risks. As mentioned previously in my ‘About Me’, you’ll respond to SIEM, EDR, and Firewall/IDS/IPS alerts and triage these incidents. You’ll need technical skills such as understanding how a SIEM and EDR function, how to analyze logs and correlate the events with one another, you’ll also need to know how TCP/IP works, how Domain Name Systems (DNS) works, and the Internet Protocol (IP) and much more. Soft skills are very important as well; it is crucial that you have communication skills, verbal and written. Although we are IT professionals, sometimes we are socially awkward, and that’s okay. I’d like to say written skills over verbal, you’ll be conducting write-ups of your investigations and you’ll need to elaborate why you looked at xyz log for xyz reason and how it can or cannot be malicious in nature. This is so other analysts can reference your investigation if a similar alert or incident occurs in the environment. An amazing book that some of our analysts reference is the ['Effective Threat Investigation for SOC Analysts: The ultimate guide to examining various threats and attacker techniques using security logs’ by Mostafa Yahia](https://amzn.to/40fjnJA).
 
 ### Core Responsibilities (to list a few…)
 
@@ -71,7 +71,7 @@ Scripting (Powershell, Python, bash, etc. etc.)
 
 ## Cybersecurity Incident Responder
 
-Large organizations have multiple teams that work alongside one another such as the SOC team, Cyber Incident Response Team (CIRT), and a Red Team (more on that soon). If a SOC analyst conducts triage on an incident that results in a True Positive finding and depending on the defined scope of the incident, you as an Incident Responder get to conduct digital forensics and incident response (DFIR) on the device. During the DFIR process you’ll identify malicious activity that has occurred on the device which can include malware and associated artifacts (file paths, DLL files, executables, C2 communication, etc. etc.), if lateral movement occurred, credential dumping, and more! This can also lead to a further investigation by the CIRT to look for the malicious artifacts in the rest of the environment. The latter can also be a Threat Hunting function as well, which is called looking for ‘Attack Residue’. A great resource for DFIR would be ‘Digital Forensics and Incident Response’ by Gerard Johansen.
+Large organizations have multiple teams that work alongside one another such as the SOC team, Cyber Incident Response Team (CIRT), and a Red Team (more on that soon). If a SOC analyst conducts triage on an incident that results in a True Positive finding and depending on the defined scope of the incident, you as an Incident Responder get to conduct digital forensics and incident response (DFIR) on the device. During the DFIR process you’ll identify malicious activity that has occurred on the device which can include malware and associated artifacts (file paths, DLL files, executables, C2 communication, etc. etc.), if lateral movement occurred, credential dumping, and more! This can also lead to a further investigation by the CIRT to look for the malicious artifacts in the rest of the environment. The latter can also be a Threat Hunting function as well, which is called looking for ‘Attack Residue’. A great resource for DFIR would be ['Digital Forensics and Incident Response’ by Gerard Johansen](https://amzn.to/4gZcgvR).
 
 ### Core Responsibilities 
 
@@ -96,41 +96,41 @@ Large organizations have multiple teams that work alongside one another such as 
 
 ### Soft Skills
 
-Attention to detail
-Verbal and Written Communication Skills
-Analytical thinking
-Problem-Solving
-Adaptability
-Curiosity and Continuous Learning
-Organizational skills
+- Attention to detail
+- Verbal and Written Communication Skills
+- Analytical thinking
+- Problem-Solving
+- Adaptability
+- Curiosity and Continuous Learning
+- Organizational skills
 
 ## Penetration Tester (lol)
 
-Also known as a PenTester or Ethical Hacker can work as an individual contractor or as a member of a Red Team. A PenTester simulates cyberattacks against organizations under a contractual agreement to identify vulnerabilities in an organization's systems, networks, applications, and processes. PenTesters have a designated scope they have to abide by when conducting a pentest against an organization so they do not disrupt or impact the confidentiality, integrity, or availability of systems in the environment. This scope is identified by key stakeholders of the organization and what they want accomplished by the PenTester. The goal of a PenTester is to enhance the security posture of the organization by providing actionable recommendations to mitigate risks. Although all of this sounds ‘cool’ a large portion of your job will be writing the report and how the vulnerabilities can be remediated. P.S. PenTesters are not only focused on systems and networks, but they also can conduct physical pentesting! Physical PenTesters look for ways to enter an organization's facility by exploiting physical security protocols in the environment. This could entail copying or fabricating Common Access Cards, impersonating as a 3rd party company that works with the organization, tailgating, etc. etc. The Lockheed Martin Kill chain provides a great representation of how threat actors and ethical hackers would exploit an environment. There are several different books out there but this one hits the nail on the head and will provide insights for an aspiring PenTest; ‘The Hacker Playbook 3: Practical Guide to Penetration Testing’ by Peter Kim.
+Also known as a PenTester or Ethical Hacker can work as an individual contractor or as a member of a Red Team. A PenTester simulates cyberattacks against organizations under a contractual agreement to identify vulnerabilities in an organization's systems, networks, applications, and processes. PenTesters have a designated scope they have to abide by when conducting a pentest against an organization so they do not disrupt or impact the confidentiality, integrity, or availability of systems in the environment. This scope is identified by key stakeholders of the organization and what they want accomplished by the PenTester. The goal of a PenTester is to enhance the security posture of the organization by providing actionable recommendations to mitigate risks. Although all of this sounds ‘cool’ a large portion of your job will be writing the report and how the vulnerabilities can be remediated. P.S. PenTesters are not only focused on systems and networks, but they also can conduct physical pentesting! Physical PenTesters look for ways to enter an organization's facility by exploiting physical security protocols in the environment. This could entail copying or fabricating Common Access Cards, impersonating as a 3rd party company that works with the organization, tailgating, etc. etc. The Lockheed Martin Kill chain provides a great representation of how threat actors and ethical hackers would exploit an environment. There are several different books out there but this one hits the nail on the head and will provide insights for an aspiring PenTest; [‘The Hacker Playbook 3: Practical Guide to Penetration Testing’ by Peter Kim](https://amzn.to/40jAfiw).
 
 
 ### Core Responsibilities
 
-Planning and Scoping with Stakeholders
-Vulnerability Assessments
-System, Network, Physical Exploitation
-Reconnaissance and Information Gathering
-Reporting and Documenting
-Collaborate with teams
-Tool Development and Custom Exploits
-Staying up to date with emerging threats, attacks, and tools.
+- Planning and Scoping with Stakeholders
+- Vulnerability Assessments
+- System, Network, Physical Exploitation
+- Reconnaissance and Information Gathering
+- Reporting and Documenting
+- Collaborate with teams
+- Tool Development and Custom Exploits
+- Staying up to date with emerging threats, attacks, and tools.
 
 
 ### Technical Skills
 
-Scripting/Automation (Python, Bash, Powershell, Javascript) 
-PenTesting Tools (Metasploit, Burp Suite, WireShark, Nessus)
-Network Architecture Knowledge
-Windows Active Directory
-Familiarity with exploits and vulnerabilities
-Network Protocols
-Defense Evasion
-Web Applications
+- Scripting/Automation (Python, Bash, Powershell, Javascript) 
+- PenTesting Tools (Metasploit, Burp Suite, WireShark, Nessus)
+- Network Architecture Knowledge
+- Windows Active Directory
+- Familiarity with exploits and vulnerabilities
+- Network Protocols
+- Defense Evasion
+- Web Applications
 
 ### Soft Skills
 
