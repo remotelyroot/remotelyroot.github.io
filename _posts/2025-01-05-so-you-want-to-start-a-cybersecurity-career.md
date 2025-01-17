@@ -3,7 +3,11 @@ description: This post is geared towards those who want to start a career in cyb
 pubDate: 2025-01-08T00:00:00Z
 imgSrc: '/assets/images/image-post1_intro_to_cyber.jpeg'
 imgAlt: 'Image post 7'
+categories: [Categories, Education]
+tags: [cybersecurity, career, cybersecurity career, education]
 ---
+
+# So you want to start a Cybersecurity career?
 
 I made a post like this months ago, but unfortunately, due to some configuration changes, I lost it (insert sad face). We've all been there, but oh well. The idea for this post stemmed from my love of cybersecurity and my passion for helping others learn about the field. Cybersecurity is crucial in the modern world, and having some level of knowledge about it can help us all defend ourselves better. This post is geared towards those who want to start a career in cybersecurity—those who love the idea of hunting down hackers, tinkering with electronic devices, understanding how computers and operating systems work, and, of course, wearing a black hoodie in a coffee shop, looking mysterious.
 
@@ -13,50 +17,178 @@ So how do you get started? What is it you want to do in cybersecurity? Are you a
 
 ## About Me
 
-I’m a Senior Threat Hunting Analyst for a government entity. My journey began at a small Managed Service Provider (MSP), where I was one of eight employees managing about 30 clients. Working at an MSP is challenging but invaluable for learning. You get hands-on experience with system and network administration, troubleshooting Domain Controllers, setting up virtual environments, and configuring edge devices.
+A little bit about me… I’m a Sr. Threat Hunting analyst that works for a government entity. I started my IT/Cybersecurity career working at a small Managed Service Provider (MSP). Anyone who’s worked for an MSP knows they’re not easy to work for. You’re on call, you’re travelling to different clients, remediating network and system outages… it’s a great time… not. BUT! You do learn A LOT and a little bit about everything that occurs in a network. Some MSPs are large and some are small; the MSP I worked for I was 1 of 8 employees with about 30 different clients. Our client list ranged from organizations that had anywhere from 10 to about 100-150 employees, nothing crazy. You’re learning system administration, network administration, troubleshooting issues on Domain Controllers, conducting full infrastructure upgrades for new or existing clients, setting up a Domain Controller or Virtual Environments, or installing and configuring network or edge devices. It’s a great time to learn the basics. Now I’m not saying for your first job to work for an MSP but the learning curve is steep and you WILL learn a lot.
 
-From there, I moved into a Junior Network Engineer role, focusing on data retention appliances, where I honed my skills troubleshooting servers, network issues, and backup platforms. This role paved the way for my first cybersecurity position as an Information System Security Officer (ISSO) in the federal government, working in governance, readiness, and compliance (GRC).
+From there I worked my way into a Jr. Network Engineer role working for a slightly larger MSP that had a focus on data retention appliances. I spent a lot of time troubleshooting servers, network issues (it’s always DNS, lol), and remediating issues with our backup platforms. I learned a lot and my supervisor was EXTREMELY knowledgeable, an amazing person to learn from. 
 
-Eventually, I transitioned to a Tier 1 Security Analyst role in a Security Operations Center (SOC). After a year, I earned a lateral promotion to my dream job as a Senior Threat Hunting Analyst, where I proactively look for threats, investigate vulnerabilities, and collaborate with Cyber Threat Intelligence (CTI) teams to stay ahead of adversaries.
+After working as Jr. Network Engineer I finally was able to get my foot in the door in a Cybersecurity role as an Information System Security Officer (ISSO) for the federal government. An ISSO mainly works in the governance, readiness, and compliance (GRC) field/area of Cybersecurity. There are many different fields/areas of Cybersecurity and we will get to that shortly so you can decide on the route you want to take to give yourself a fulfilling career. This role consisted of ensuring the environment I was “in-charge” of met regulatory compliance and OPM guidelines. It involved me reviewing Tenable reports, which is a vulnerability management software and communicating with the System and Network administrators to ensure those vulnerabilities were remediated. If they were unable to be remediated due to potentially affecting the availability of other applications in the environment, justification letters had to be requested and someone much much higher had to sign off and accept the risk. I did not stay in this role much longer, due to an amazing opportunity of what I actually wanted to do came up… a Tier 1 (T1) Security Analyst position work in a Security Operations Center (SOC).
 
----
+When I interviewed for the T1 SOC Analyst position I was STOKED!!! What a great opportunity to be offered. At the end of the interview I was asked a quite comical question “Do you like vinegar or mustard based BBQ sauce?” I laughed haha, now I’m not going to tell you my answer, but you get to ponder that for yourself. As a SOC analyst we work on triaging alerts that come into a Ticket Management System. A lot of this work relies on alert based tools such as System Information and Event Monitoring (SIEM), Endpoint Detection and Response (EDR), and Firewall/Intrusion Prevention/Detection System (IPS/IDS). If you’re in a more established SOC role, hopefully you’ll have what are called Play Books that provide a step-by-step instruction depending on the use case (alert) being triggered. For example, you can have an alert that triggers when a machine in your environment establishes a connection to an IP address that has been reported by intelligence sources as potentially malicious. You’d follow a Play Book that has a step-by-step process on how to investigate this alert via the SIEM and EDR. This is vital to streamlining processes and increasing workflow for your SOC analysts. A good resource for how a SOC works would be the book ‘Blue Team Handbook: SOC, SIEM, and Threat Hunting (V1.02) A condensed Guide for Security Operations Team and Threat Hunter’ by Don Murdoch. Don Murdoch has over 20 years of IT and InfoSec experience and has a great relationship working with SANS. (More on SANS later).
 
-## Cool Cybersecurity Roles
+After a year of working as a T1 SOC Analyst, I was given the opportunity for a lateral promotion within the organization as a Sr. Threat Hunting analyst. Threat hunting in general is relatively new to the Cybersecurity industry. The purpose of this role is to proactively look for threats in the environment that your tools were unable to catch, and yes this happens more often than not, especially when dealing with sophisticated threat actors or Advanced Persistent Threats (APTs). As a Threat Hunter you’ll work closely with your Cyber Threat Intelligence (CTI) team to gather Open Source Intelligence (OSINT). The OSINT data can pertain to an APT’s Tactics, Techniques, and Procedures (TTPs) on how they compromise a network environment. You’ll investigate potentially exploited vulnerabilities in your environment and look for compromise. You will also hunt malware and use forensic analysis reports to help understand how the malware executes on a system and what files, registries, and directories to look in. It’s a pretty neat gig and there's so much more. This is my current position and I’m happy to have this opportunity, it’s pretty much a dream job for me. 
 
-### Security Operations Analyst
-- **Responsibilities:** Monitor and respond to security threats, analyze logs, and mitigate risks.
-- **Skills:** SIEM and EDR tools, TCP/IP, DNS, scripting (Python, Bash, PowerShell).
-- **Soft Skills:** Communication, analytical thinking, attention to detail.
-
-### Cybersecurity Incident Responder
-- **Responsibilities:** Perform digital forensics, contain incidents, and document findings.
-- **Skills:** Malware analysis, reverse engineering, log analysis, DFIR tools.
-- **Soft Skills:** Adaptability, curiosity, organizational skills.
-
-### Penetration Tester
-- **Responsibilities:** Simulate cyberattacks to identify vulnerabilities, write detailed reports, and recommend mitigations.
-- **Skills:** PenTesting tools (Metasploit, Burp Suite), scripting, network architecture.
-- **Soft Skills:** Analytical thinking, communication, problem-solving.
 
 ---
 
-## Education and Certifications
+## What are some cool Cybersecurity roles?
 
-Education is critical in this field, whether it’s self-taught through books and online resources or formal education through universities. Certifications are essential for demonstrating baseline knowledge and opening doors to entry-level roles. Here’s a list of recommended certifications:
+This all depends on the flavor you enjoy… Personally, I like looking for the ‘bad’ on a network as a Sr. Threat Hunting Analyst. It's fun and reminds me of a book I really enjoy called ‘The Cuckoos Egg’ by Cliff Stroll. Amazing book and a true story about an astronomer that begins a quest to expose a hidden network of spies that threatens national security and leads all the way to the KGB. What started off this investigation was following a 75-cent accounting error at his work place. Amazing if you ask me. This could be you one day… it really could! 
 
-- **CompTIA Security+** (Foundational cybersecurity knowledge)
-- **CompTIA CySA+** (Advanced skills for cybersecurity analysts)
-- **BlueTeam Fundamentals**
-- **SANS GSOC**
-- **Certified Incident Handler**
-- **OSCP** (Offensive Security Certified Professional)
+So let’s get to it…
+Cybersecurity Roles
+
+## Security Operations Analyst
+This is probably one of the most common roles you’ll hear about in the security industry. You’ll be responsible for monitoring, detecting, analyzing, and responding to security threats and incidents within an organization's environment. They play a crucial role in safeguarding the organization’s data, systems, and networks by identifying vulnerabilities and mitigating risks. As mentioned previously in my ‘About Me’, you’ll respond to SIEM, EDR, and Firewall/IDS/IPS alerts and triage these incidents. You’ll need technical skills such as understanding how a SIEM and EDR function, how to analyze logs and correlate the events with one another, you’ll also need to know how TCP/IP works, how Domain Name Systems (DNS) works, and the Internet Protocol (IP) and much more. Soft skills are very important as well; it is crucial that you have communication skills, verbal and written. Although we are IT professionals, sometimes we are socially awkward, and that’s okay. I’d like to say written skills over verbal, you’ll be conducting write-ups of your investigations and you’ll need to elaborate why you looked at xyz log for xyz reason and how it can or cannot be malicious in nature. This is so other analysts can reference your investigation if a similar alert or incident occurs in the environment. An amazing book that some of our analysts reference is the ‘Effective Threat Investigation for SOC Analysts: The ultimate guide to examining various threats and attacker techniques using security logs’ by Mostafa Yahia.
+
+### Core Responsibilities (to list a few…)
+
+
+- Investigate, analyze, and respond to security incidents in real time.
+- Contain and mitigate security breaches or threats to minimize impact.
+- Continuously monitor security alerts, logs, and events from various tools and systems (e.g.SIEM, IDS/IPS).
+- Analyze and correlate data from multiple sources to identify complex threats.
+- Identify suspicious activities or patterns that may indicate a potential security threat.
+
+
+### Technical Skills
+
+
+- Understanding of Security Information and Event Management (SIEM) tools (Splunk, QRadar, Azure Sentinel, Elastic Stack, etc. etc.)
+- Endpoint Detection and Response (EDR) tools 
+(SentinelOne, Carbon Black, Crowdstrike)
+- Log Analysis and Event Correlation
+(Windows Event Logs, Linux Syslogs, Application, and Network)
+- TCP/IP, DNS, and HTTP/HTTPs protocols
+Scripting (Powershell, Python, bash, etc. etc.)
+
+
+### Soft Skills
+
+- Verbal and Written Communication
+- Analytical thinking
+- Attention to detail
+- Continuous Learning
+- Problem-Solving
+
+## Cybersecurity Incident Responder
+
+Large organizations have multiple teams that work alongside one another such as the SOC team, Cyber Incident Response Team (CIRT), and a Red Team (more on that soon). If a SOC analyst conducts triage on an incident that results in a True Positive finding and depending on the defined scope of the incident, you as an Incident Responder get to conduct digital forensics and incident response (DFIR) on the device. During the DFIR process you’ll identify malicious activity that has occurred on the device which can include malware and associated artifacts (file paths, DLL files, executables, C2 communication, etc. etc.), if lateral movement occurred, credential dumping, and more! This can also lead to a further investigation by the CIRT to look for the malicious artifacts in the rest of the environment. The latter can also be a Threat Hunting function as well, which is called looking for ‘Attack Residue’. A great resource for DFIR would be ‘Digital Forensics and Incident Response’ by Gerard Johansen.
+
+### Core Responsibilities 
+
+- Digital Forensics and Incident Response
+- Incident Containment
+- Eradication of Threats
+- Recovery and Restoration
+- Incident Documentation
+- Post-Incident Analysis
+
+### Technical Skills
+
+- Malware Analysis
+- Reverse Engineering
+- Log Analysis (System Logs, Windows Event Logs, Network & Application Logs)
+- Digital Forensics
+- Disk Imaging and Analysis
+- Identifying Indicators of Compromise (IoCs)
+- Scripting (Python, Bash, Powershell, Perl, etc. etc.)
+- Cryptography and Encryption
+
+
+### Soft Skills
+
+Attention to detail
+Verbal and Written Communication Skills
+Analytical thinking
+Problem-Solving
+Adaptability
+Curiosity and Continuous Learning
+Organizational skills
+
+## Penetration Tester (lol)
+
+Also known as a PenTester or Ethical Hacker can work as an individual contractor or as a member of a Red Team. A PenTester simulates cyberattacks against organizations under a contractual agreement to identify vulnerabilities in an organization's systems, networks, applications, and processes. PenTesters have a designated scope they have to abide by when conducting a pentest against an organization so they do not disrupt or impact the confidentiality, integrity, or availability of systems in the environment. This scope is identified by key stakeholders of the organization and what they want accomplished by the PenTester. The goal of a PenTester is to enhance the security posture of the organization by providing actionable recommendations to mitigate risks. Although all of this sounds ‘cool’ a large portion of your job will be writing the report and how the vulnerabilities can be remediated. P.S. PenTesters are not only focused on systems and networks, but they also can conduct physical pentesting! Physical PenTesters look for ways to enter an organization's facility by exploiting physical security protocols in the environment. This could entail copying or fabricating Common Access Cards, impersonating as a 3rd party company that works with the organization, tailgating, etc. etc. The Lockheed Martin Kill chain provides a great representation of how threat actors and ethical hackers would exploit an environment. There are several different books out there but this one hits the nail on the head and will provide insights for an aspiring PenTest; ‘The Hacker Playbook 3: Practical Guide to Penetration Testing’ by Peter Kim.
+
+
+### Core Responsibilities
+
+Planning and Scoping with Stakeholders
+Vulnerability Assessments
+System, Network, Physical Exploitation
+Reconnaissance and Information Gathering
+Reporting and Documenting
+Collaborate with teams
+Tool Development and Custom Exploits
+Staying up to date with emerging threats, attacks, and tools.
+
+
+### Technical Skills
+
+Scripting/Automation (Python, Bash, Powershell, Javascript) 
+PenTesting Tools (Metasploit, Burp Suite, WireShark, Nessus)
+Network Architecture Knowledge
+Windows Active Directory
+Familiarity with exploits and vulnerabilities
+Network Protocols
+Defense Evasion
+Web Applications
+
+### Soft Skills
+
+- Analytical Thinking
+- Strong Verbal and Written Communication
+- Attention to detail and persistence
+- Ability to explain findings to non-technical audiences
+- Problem-Solving
+
+These are just a few of the many different roles you can pursue in a cybersecurity career. Some other ones that may be of interest to you will be an Information System Security Officer/Manager, Cybersecurity Consultant, DevSecOps, Security Automation Engineer, and many others. I’ll dive more into different opportunities you can pursue to help establish some of your technical skills and provide some reading material for you as well.
 
 ---
 
-## Hands-On Training
+## Ah yes, education!
 
-Hands-on training is invaluable in cybersecurity. Platforms like TryHackMe, Hack The Box, and CTF challenges can help you practice real-world skills applicable to everyday roles.
+Education is FUTILE in this career field! Whether it’s personal education through white pages, books, and googling or through professional education via a university, education will provide beneficial skills and knowledge to help you excel at your job and life in general. I’m going to cover different certifications you can pursue, online hands-on training, and online sources for webinars and white pages. Although I feel that my education from a university was beneficial, I feel that you can gain a lot of knowledge of equal, if not better value from other sources.
 
----
+## Certifications
 
-Cybersecurity is a rewarding and dynamic field. Whether you’re interested in defending systems, investigating incidents, or ethically hacking networks, there’s a role for you. Remember, this journey requires curiosity, continuous learning, and persistence. Let’s get started—your dream job might be closer than you think!
+Here’s a small list of cybersecurity certifications or general IT certifications that will assist you in providing baseline knowledge of relevant cybersecurity topics. Certifications are meant to give you a BASELINE not make you an expert. They will NOT get you a job, but they can give you the opportunity to acquire an interview.
+
+**CompTIA Security+** - this certification is the cream-of-the-crop, globally recognized, basic cybersecurity certification that provides and validates foundational cybersecurity knowledge and skills. It really is the baseline of cybersecurity knowledge and can definitely assist with getting an intro-level position in cybersecurity. Some federal and state agencies do require CompTIA Security+ in order to acquire and maintain a position. Check out this qualification matrix. The current CompTIA Security+ Exam is SYO-701. The skills you acquire are general security concepts, you’ll learn about threats, vulnerabilities, mitigations, security architecture, security operations, and security program management and oversight.
+ 
+**CompTIA CySA+** - CySA stands for Cybersecurity Security Analyst, it’s a bit more advanced than the Security+ certification and a lot of the material actually transfers over from the Comptia Security+ exam. For myself, I actually took the CySA+ not too long after completing the CompTIA Security+ 601 exam. This certification is an intermediate-level credential focused on the detection, prevention, and response to cybersecurity threats. It is ideal for cybersecurity professionals looking to advance their careers in threat management, vulnerability management, and incident response.
+
+
+**CompTIA Network+** - If you want to get a baseline of how network operations work with a bit of network security in there, then Network+ is a great addition to your repertoire. I believe that networking provides fundamental knowledge 
+
+
+**Security Blue Team** - 
+
+
+**EC-Council Certified Incident Handler** - 
+
+
+**SANS GSOC** - 
+
+
+**SANS GCFA** - 
+
+
+**ISC2 CGRC** - 
+
+
+**OSCP** - 
+
+
+## Hands-On Training!
+
+Everyone in this field, well almost everyone LOVES hands-on training, especially if it's directly applicable to our everyday roles and responsibilities.
+
+**Hack The Box** - 
+
+**Try Hack Me** - 
+
+**Over The Wire** - 
+
+## Build a Home Lab!
+
+## Reading Material
