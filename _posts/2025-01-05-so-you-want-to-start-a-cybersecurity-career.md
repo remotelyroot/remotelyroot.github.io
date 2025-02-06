@@ -194,7 +194,21 @@ Everyone in this field, well almost everyone LOVES hands-on training, especially
 
 ## Build a Home Lab!
 
-Honestly, this one of the best ways for you get your foot in the door with some practical experience, besides my favorite, Try Hack Me. With a home lab you'll receive hands-on experiencing setting up a SOHO (Small Office/Home Office) network. 
+Honestly, this one of the best ways for you get your foot in the door with some practical experience, besides my favorite, Try Hack Me. With a home lab you'll receive hands-on experiencing setting up a SOHO (Small Office/Home Office) network. You can deploy a virtual firewall ([pfSense](https://www.pfsense.org/)) to achieve hands implementation of network security. Adding a small network switch to connect your devices to, maybe implementing a Wireless Access Point (AP) as well to customize your WiFi. Setup Virtual Local Area Networks (VLANS) to isolate maybe your PC from your Internet of Things (IoT) devices (TV, Alexa, Wireless Lights, etc. etc.). You can also setup a small Security Operations Center environment by implementing [Security Onion](https://securityonionsolutions.com/). Security Onion is an open-source software with a suite of tools that range from an Incident Management System (IMS) to a Security Information and Event Management (SIEM) system known as [Elastic](https://www.elastic.co/). Another avenue of approach includes taking a laptop (with enough ram and space, of course) or finding a server and building a virtual environment with [ProxMox](https://www.proxmox.com/en/). Building a virutal environment will allow you to create a testing environment to learn how different attacks work. Essentially, ingesting your virutal machine logs into Elastic, learning how to use the SIEM, you can detect and investigate events occuring in your testing environment, and even identify the mock experiments you conduct in a safe environment.
+
+My home lab is quite small but it includes the following...
+
+[GeekPi 8U 10" Server Rack (Tiny)](https://amzn.to/40PM67Y)\
+[GeekPi DeskPi RackMate Mini-ITX 1U Rack](https://amzn.to/3Q871y8)\
+[GeekPi 12 Port Patch Panel](https://amzn.to/3WQnue9)\
+[GeekPie 7 Port DC Power Distribution Unit](https://amzn.to/3WQ6YuC)\
+[Netgear 8 Port PoE Switch](https://amzn.to/412SZUL)\
+[Unifi Wireless Access Point](https://amzn.to/40GnGOi)\
+[Protectli Vault with pfsense installed](https://amzn.to/4aV5iWM)\
+[1ft 10Gbps 5-Pack Cat 6 Ethernet Cables](https://amzn.to/4aNOAIC)\
+[MINISFORUM BD790i Mini PC Ryzen 9 (Hosts My ProxMox)](https://amzn.to/40P8hew)\
+[6" (.5ft) 10-Pack Cat6 Shielded Ethernat Cable](https://amzn.to/40T5zF8)\
+
 
 ## Reading Material
 
