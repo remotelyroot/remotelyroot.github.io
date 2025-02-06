@@ -31,7 +31,7 @@ After a year of working as a T1 SOC Analyst, I was given the opportunity for a l
 
 ## What are some cool Cybersecurity roles?
 
-This all depends on the flavor you enjoy… Personally, I like looking for the ‘bad’ on a network as a Sr. Threat Hunting Analyst. It's fun and reminds me of a book I really enjoy called ‘The Cuckoos Egg’ by Cliff Stroll. Amazing book and a true story about an astronomer that begins a quest to expose a hidden network of spies that threatens national security and leads all the way to the KGB. What started off this investigation was following a 75-cent accounting error at his work place. Amazing if you ask me. This could be you one day… it really could! 
+This all depends on the flavor you enjoy… Personally, I like looking for the ‘bad’ on a network as a Sr. Threat Hunting Analyst. It's fun and reminds me of a book I really enjoy called [‘The Cuckoos Egg’ by Cliff Stroll](https://amzn.to/411jr1b). Amazing book and a true story about an astronomer that begins a quest to expose a hidden network of spies that threatens national security and leads all the way to the KGB. What started off this investigation was following a 75-cent accounting error at his work place. Amazing if you ask me. This could be you one day… it really could! 
 
 So let’s get to it…
 Cybersecurity Roles
@@ -152,42 +152,61 @@ Education is FUTILE in this career field! Whether it’s personal education thro
 
 Here’s a small list of cybersecurity certifications or general IT certifications that will assist you in providing baseline knowledge of relevant cybersecurity topics. Certifications are meant to give you a BASELINE not make you an expert. They will NOT get you a job, but they can give you the opportunity to acquire an interview.
 
-**CompTIA Security+** - this certification is the cream-of-the-crop, globally recognized, basic cybersecurity certification that provides and validates foundational cybersecurity knowledge and skills. It really is the baseline of cybersecurity knowledge and can definitely assist with getting an intro-level position in cybersecurity. Some federal and state agencies do require CompTIA Security+ in order to acquire and maintain a position. Check out this qualification matrix. The current CompTIA Security+ Exam is SYO-701. The skills you acquire are general security concepts, you’ll learn about threats, vulnerabilities, mitigations, security architecture, security operations, and security program management and oversight.
+**[CompTIA Security+](https://www.comptia.org/certifications/security)** - this certification is the cream-of-the-crop, globally recognized, basic cybersecurity certification that provides and validates foundational cybersecurity knowledge and skills. It really is the baseline of cybersecurity knowledge and can definitely assist with getting an intro-level position in cybersecurity. Some federal and state agencies do require CompTIA Security+ in order to acquire and maintain a position. Check out this qualification matrix. The current CompTIA Security+ Exam is SYO-701. The skills you acquire are general security concepts, you’ll learn about threats, vulnerabilities, mitigations, security architecture, security operations, and security program management and oversight.
  
-**CompTIA CySA+** - CySA stands for Cybersecurity Security Analyst, it’s a bit more advanced than the Security+ certification and a lot of the material actually transfers over from the Comptia Security+ exam. For myself, I actually took the CySA+ not too long after completing the CompTIA Security+ 601 exam. This certification is an intermediate-level credential focused on the detection, prevention, and response to cybersecurity threats. It is ideal for cybersecurity professionals looking to advance their careers in threat management, vulnerability management, and incident response.
+**[CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)** - CySA stands for Cybersecurity Security Analyst, it’s a bit more advanced than the Security+ certification and a lot of the material actually transfers over from the Comptia Security+ exam. For myself, I actually took the CySA+ not too long after completing the CompTIA Security+ 601 exam. This certification is an intermediate-level credential focused on the detection, prevention, and response to cybersecurity threats. It is ideal for cybersecurity professionals looking to advance their careers in threat management, vulnerability management, and incident response.
 
 
-**CompTIA Network+** - If you want to get a baseline of how network operations work with a bit of network security in there, then Network+ is a great addition to your repertoire. I believe that networking provides fundamental knowledge 
+**[CompTIA Network+](https://www.comptia.org/certifications/network)** - If you want to get a baseline of how network operations work with a bit of network security in there, then Network+ is a great addition to your repertoire. I believe that networking provides fundamental knowledge 
 
 
-**Security Blue Team** - 
+**[Security Blue Team](https://www.securityblue.team/)** - 
 
 
-**EC-Council Certified Incident Handler** - 
+**[EC-Council Certified Incident Handler](https://cert.eccouncil.org/ec-council-certified-incident-handler.html)** - 
 
 
-**SANS GSOC** - 
+**[SANS GSOC](https://www.giac.org/certifications/security-operations-certified-gsoc/)** - 
 
 
-**SANS GCFA** - 
+**[SANS GCFA](https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training/)** - 
 
 
-**ISC2 CGRC** - 
+**[ISC2 CGRC](https://www.isc2.org/certifications/cgrc)** - 
 
 
-**OSCP** - 
+**[OSCP](https://www.offsec.com/courses/pen-200/)** - 
 
 
 ## Hands-On Training!
 
 Everyone in this field, well almost everyone LOVES hands-on training, especially if it's directly applicable to our everyday roles and responsibilities.
 
-**Hack The Box** - 
+**[Hack The Box](https://www.hackthebox.com/)** - 
 
-**Try Hack Me** - 
+**[Try Hack Me](https://tryhackme.com/)** - 
 
-**Over The Wire** - 
+**[Over The Wire](https://overthewire.org/wargames/)** - 
+
+**[Ace Responder](https://aceresponder.com/)** - 
+
+**[Vuln Hub](https://www.vulnhub.com/)** - 
 
 ## Build a Home Lab!
 
 ## Reading Material
+
+**[SANS White Papers (free)](https://www.sans.org/white-papers/)** - 
+
+**[Operator Handbook](https://amzn.to/4aSrxwj)** - 
+
+**[Practical Malware Analysis](https://amzn.to/40PQaoO)** - 
+
+**[Blue Team Handbook: SOC, SIEM, and Threat Hunting](https://amzn.to/40Kt0Am)** - 
+
+**[Effective Threat Investigation for SOC Analyst](https://amzn.to/4149tfE)** - 
+
+**[Learn Computer Forensics](https://amzn.to/4gsNUK2)** - 
+
+**[Practical Threat Intelligence and Data-Driven Threat Hunting](https://amzn.to/4hqZ8zU)** -
+
