@@ -54,7 +54,7 @@ It is important during this phase an eradication and remediation plan is in plac
 
 ## #5 Recovery
 
-Our initial goal in the recovery phase will be to return to normal business operations. In this phase, we will patch vulnerabilities and exploits found in our environment; block indicators of compromise found during the identification and scoping phase; and maybe implement a network redesign for an increase in security. 
+Our initial goal in the recovery phase will be to return to normal business operations. In this phase, we will patch vulnerabilities and exploits found in our environment; and maybe implement a network redesign for an increase in security. 
 
 Do not limit yourself there, web portals may require reconfiguration to be protected from web attacks. Implementing a web proxy for an additional layer of security for your end users. We want to improve our overall security posture to prevent immediate reinfection.
 
