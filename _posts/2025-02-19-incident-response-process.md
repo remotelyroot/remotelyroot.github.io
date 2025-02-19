@@ -4,12 +4,12 @@ The Incident Response (IR) process will be the most important process you’ll e
 
 You can imagine the IR process as a perpetual loop, always improving your organization after every incident. The incident response process is the following six key steps:
 
-Preparation
-Identification and Scoping
-Containment and Threat Intel
-Eradication and Remediation
-Recovery
-Lessons Learned
+- #1 Preparation
+- #2 Identification and Scoping
+- #3 Containment and Threat Intel
+- #4 Eradication and Remediation
+- #5 Recovery
+- #6 Lessons Learned
 
 ## #1 Preparation
 
