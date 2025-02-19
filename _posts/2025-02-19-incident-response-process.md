@@ -1,4 +1,4 @@
-# Incident Response Process
+# Six-Step Incident Response Process
 
 The Incident Response (IR) process will be the most important process you’ll ever implement in your organization. It is key in how your organization responds to a cyber incident. We will cover the SANS Six-Step Incident Response process. You’ll implement strategies to prepare for cyber incidents; how you will identify an incident; curate a containment plan based on the threat intelligence you’ve gathered after identifying the incident; return to business operations by eradicating and remediating the threat; appropriately recover by conducting proper patch management, blocking malicious IOCs, password changes, or restoring backups; reviewing the lessons learned from the incident and where the organization can improve.
 
