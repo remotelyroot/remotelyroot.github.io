@@ -50,7 +50,7 @@ In the most important phase of the IR process, we want to completely remove or e
 
 We will want to block IOCs found during the containment and threat intelligence phase. This can include malicious IP addresses used for command and control or data exfiltration; domains and URLs; and file hashes associated with found malware. We want to configure use cases within our SIEM to properly alert certain event behaviors with the Indicators of Attack identified in the environment. Changing passwords on known and potentially affected accounts. We will want to rebuild compromised systems from ‘known-good’ backups. 
 
-It is important during this phase an eradication and remediation plan is in place. Every time your team experiences an incident be prepared for growing pains when developing these plans. Prepare for the eradication and remediation plan to change over time to be effective within your environment.
+It is important during this phase that a eradication and remediation plan is put in place. Every time your team experiences an incident, be prepared for growing pains when developing these plans. Prepare for the eradication and remediation plan to change over time to be effective within your environment.
 
 ## #5 Recovery
 
