@@ -1,7 +1,7 @@
 ---
 description: In this post we covering the Incident Response process and the six-steps associated with it.
 pubDate: 2025-02-19T00:00:00Z
-categories: [Categories, Education, Incident Response, DFIR]
+categories: [Education, Incident Response, DFIR]
 tags: [cybersecurity, career, cybersecurity career, education, incident response]
 ---
 

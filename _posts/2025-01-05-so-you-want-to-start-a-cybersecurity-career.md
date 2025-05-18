@@ -2,7 +2,7 @@
 description: This post is geared towards those who want to start a career in cybersecurity—those who love the idea of hunting down hackers, tinkering with electronic devices, understanding how computers and operating systems work, and, of course, wearing a black hoodie in a coffee shop, looking mysterious.
 pubDate: 2025-01-08T00:00:00Z
 imgAlt: 'Image post 7'
-categories: [Categories, Education]
+categories: [Career]
 tags: [cybersecurity, career, cybersecurity career, education]
 ---
 
