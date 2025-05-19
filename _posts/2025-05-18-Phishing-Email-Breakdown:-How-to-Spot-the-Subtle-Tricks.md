@@ -6,3 +6,5 @@ description:
 categories: [Education, Beginner]
 tags: [elif,cybersecurity,email, phishing, phishing emails]
 ---
+
+# Phishing Email Breakdown: How to Spot the Subtle Tricks

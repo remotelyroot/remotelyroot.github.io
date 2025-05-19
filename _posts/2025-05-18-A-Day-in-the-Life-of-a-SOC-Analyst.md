@@ -7,3 +7,6 @@ categories: [Education, SOC]
 tags: [elif, cybersecurity, soc]
 ---
 
+# A Day in the Life of a SOC Analyst
+
+First things first, this post has a ta
