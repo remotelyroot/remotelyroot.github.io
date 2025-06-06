@@ -4,7 +4,7 @@ date: 2025-06-06T00:00:00Z
 author: Remotely Root
 description: 
 categories: [Education, Privacy]
-tags: [education, privacy, facebook, guide]
+tags: [education, privacy, facebook, guide, facebook, social media]
 ---
 
 ## 🚀 New! Use Facebook’s Built-In Privacy Checkup
