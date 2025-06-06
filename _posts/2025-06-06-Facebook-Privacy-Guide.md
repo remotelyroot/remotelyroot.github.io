@@ -7,9 +7,6 @@ categories: [Education, Privacy]
 tags: [education, privacy, facebook, guide]
 ---
 
-
----
-
 ## 🚀 New! Use Facebook’s Built-In Privacy Checkup
 
 Facebook now offers a **Privacy Checkup** tool—a guided walk-through of key settings to help you take control fast.
