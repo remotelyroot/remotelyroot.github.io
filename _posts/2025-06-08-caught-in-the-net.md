@@ -174,19 +174,3 @@ You’re hired instantly. The pay is great. You’re sent a check to “buy equi
 📌 **Step 3:** Alert your bank & update all passwords.
 
 📌 **Step 4:** Tell your friends/family. The more people know, the fewer fall victim.
-
----
-
-## ✅ Scam-Spotting Toolkit (Free PDF!)
-Click below to download our printable cheat sheet:
-📄 [Download: Spot the Scam Guide](#) _(link your PDF here)_
-
----
-
-## 🔗 Call-to-Action Widgets
-
-```html
-<!-- Replace these with real buttons or links on your website -->
-[🛡️ Report a Scam Now »](https://reportfraud.ftc.gov)  
-[📘 Share This Post with a Friend »](https://twitter.com/intent/tweet?text=Check+out+this+post!)
-[📩 Subscribe for Cyber Safety Tips »](/newsletter-signup)
