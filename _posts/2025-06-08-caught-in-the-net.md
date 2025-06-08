@@ -4,7 +4,7 @@ date: 2025-06-08T00:00:00Z
 author: 'Remotely Root'
 description: 
 categories: [Education, Scams]
-tags: [internet scams, technology, romance scams, finance scams, education, scams, internet scams]
+tags: ['internet scams', technology, 'romance scams', 'finance scams', education, scams, 'internet scams']
 ---
 
 
