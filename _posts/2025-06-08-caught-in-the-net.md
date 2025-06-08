@@ -188,5 +188,5 @@ Click below to download our printable cheat sheet:
 ```html
 <!-- Replace these with real buttons or links on your website -->
 [🛡️ Report a Scam Now »](https://reportfraud.ftc.gov)  
-[📘 Share This Post with a Friend »](#share)  
-[📩 Subscribe for Cyber Safety Tips »](#subscribe)
+[📘 Share This Post with a Friend »](https://twitter.com/intent/tweet?text=Check+out+this+post!)
+[📩 Subscribe for Cyber Safety Tips »](/newsletter-signup)
