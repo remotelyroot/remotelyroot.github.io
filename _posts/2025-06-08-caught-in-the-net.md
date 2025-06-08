@@ -1,5 +1,5 @@
 ---
-title: '🕸️ Caught in the Net: A Guide to Internet Scams (And How to Outsmart Them)'
+title: '🕸️ Internet Scams You Need to Know in 2025: Romance, Crypto & More'
 date: 2025-06-08T00:00:00Z
 author: 'Remotely Root'
 description: 
