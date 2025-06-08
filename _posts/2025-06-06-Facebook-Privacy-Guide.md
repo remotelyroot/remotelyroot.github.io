@@ -1,13 +1,11 @@
 ---
-title: 'Facebook Privacy Guide'
+title: '🚀 New! Use Facebook’s Built-In Privacy Checkup'
 date: 2025-06-06T00:00:00Z
 author: Remotely Root
 description: 
 categories: [Education, Privacy]
 tags: [education, privacy, facebook, guide, facebook, social media]
 ---
-
-## 🚀 New! Use Facebook’s Built-In Privacy Checkup
 
 Facebook now offers a **Privacy Checkup** tool—a guided walk-through of key settings to help you take control fast.
 

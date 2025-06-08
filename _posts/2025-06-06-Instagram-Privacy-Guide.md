@@ -1,5 +1,5 @@
 ---
-title: 'Instagram Privacy Guide'
+title: '🔐 Updated Instagram Privacy Settings (Verified)'
 date: 2025-06-06T00:00:00Z
 author: Remotely Root
 description: 
@@ -7,8 +7,6 @@ categories: [Education, Privacy]
 tags: [education, privacy, facebook, guide, instagram, social media]
 ---
 
-
-## 🔐 Updated Instagram Privacy Settings (Verified)
 
 Here’s a breakdown of the latest settings categories you’ll find under:
 
@@ -70,17 +68,17 @@ Here’s a breakdown of the latest settings categories you’ll find under:
 
 ### ✅ Best Settings for Maximum Privacy
 
-| Setting                     | Recommendation              |
-|-----------------------------|------------------------------|
-| Account Privacy             | Private                     |
-| Story Visibility            | Close Friends or Hidden     |
-| Comments                    | Filter + Blocked List       |
-| Tags & Mentions             | People You Follow / No One  |
-| Messages                    | Only People You Follow      |
-| Sharing                     | Off (for Stories/Posts)     |
-| Hidden Words                | Add triggers like spam terms|
-| Restricted Accounts         | Use for stalkers/trolls     |
-| 2FA                         | Enabled                     |
+| Setting             | Recommendation               |
+| ------------------- | ---------------------------- |
+| Account Privacy     | Private                      |
+| Story Visibility    | Close Friends or Hidden      |
+| Comments            | Filter + Blocked List        |
+| Tags & Mentions     | People You Follow / No One   |
+| Messages            | Only People You Follow       |
+| Sharing             | Off (for Stories/Posts)      |
+| Hidden Words        | Add triggers like spam terms |
+| Restricted Accounts | Use for stalkers/trolls      |
+| 2FA                 | Enabled                      |
 
 ---
 
