@@ -2,9 +2,10 @@
 title: '⚠️ The ClickFix JavaScript–PowerShell Attack: The Clipboard Trap You Haven’t Heard Of'
 date: 2025-06-12T00:00:00Z
 author: 'Remotely Root'
-description: 
+description: "Discover how the ClickFix cyberattack uses JavaScript and PowerShell to trick users into executing malware — and how to defend against this growing clipboard-based exploit."
+keywords: ["AI cybersecurity", "ChatGPT hacking", "AI phishing", "ClickFix attack", "malicious AI use"]
 categories: [Cyber Attacks]
-tags: [cyber attack, clickfix, powershell, javascript, business, network security]
+tags: ["cybersecurity", "PowerShell", "malware", "phishing", "endpoint security"]
 ---
 
 Cybercriminals are getting sneaky — like, *social engineering meets sleight-of-hand* sneaky. Enter the **ClickFix attack**, a clipboard hijack that leverages JavaScript, PowerShell, and a little human psychology to deliver full-blown malware.
