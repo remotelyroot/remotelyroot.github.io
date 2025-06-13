@@ -4,7 +4,7 @@ date: 2025-06-12T00:00:00Z
 author: 'Remotely Root'
 description: "Discover how the ClickFix cyberattack uses JavaScript and PowerShell to trick users into executing malware — and how to defend against this growing clipboard-based exploit."
 keywords: ["AI cybersecurity", "ChatGPT hacking", "AI phishing", "ClickFix attack", "malicious AI use"]
-categories: [Cyber Attacks]
+categories: [Cyber Threats]
 tags: ["cybersecurity", "PowerShell", "malware", "phishing", "endpoint security"]
 ---
 
