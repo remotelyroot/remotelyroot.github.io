@@ -1,10 +1,10 @@
 ---
-title: '🛡️ Cybersecurity for Small Businesses: A DIY Security Toolkit'
+title: "🛡️ Cybersecurity for Small Businesses: A DIY Toolkit to Protect Your Company in 2025"
 date: 2025-06-12T00:00:00Z
-author: 'Remotely Root'
-description: 
+author: "Remotely Root"
+description: "Protect your small business from cyber threats with this practical 2025 DIY cybersecurity toolkit. Learn affordable, effective steps to defend your data, devices, and reputation."
 categories: [Education, Business]
-tags: [small business, technology, cybersecurity, cyber security, education, business]
+tags: [cybersecurity for small business, DIY cybersecurity, small business data protection, business security tips, cyber risk, startup cybersecurity, business security tools, cyber hygiene]
 ---
 
 Small businesses are the *#1 target* for cybercriminals — not because of how *big* they are, but because of how *unguarded* they often are.
