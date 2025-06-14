@@ -1,8 +1,9 @@
 ---
-description: In this post we covering the Incident Response process and the six-steps associated with it.
+title: "Mastering the 6 Steps of Incident Response: A Guide for Aspiring Cybersecurity Professionals"
+description: "Learn the six key steps of the Incident Response process—what they are, why they matter, and how to implement them in real-world cybersecurity operations."
 pubDate: 2025-02-19T00:00:00Z
 categories: [Education, Incident Response, DFIR]
-tags: [cybersecurity, career, cybersecurity career, education, incident response]
+tags: [incident response, cybersecurity, DFIR, cybersecurity career, digital forensics, SOC, threat detection, IR process]
 ---
 
 # Six-Step Incident Response Process
