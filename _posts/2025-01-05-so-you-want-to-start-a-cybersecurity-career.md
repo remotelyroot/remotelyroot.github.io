@@ -6,7 +6,6 @@ author: Dominic Spucches
 date: 2025-06-14
 categories: [Career]
 tags: [cybersecurity, career advice, hacking, tech jobs, ethical hacking]
-image: /assets/images/cybersecurity-career-cover.jpg
 ---
 
 I made a post like this months ago, but unfortunately, due to some configuration changes, I lost it (insert sad face). We've all been there, but oh well. The idea for this post stemmed from my love of cybersecurity and my passion for helping others learn about the field. Cybersecurity is crucial in the modern world, and having some level of knowledge about it can help us all defend ourselves better. This post is geared towards those who want to start a career in cybersecurity—those who love the idea of hunting down hackers, tinkering with electronic devices, understanding how computers and operating systems work, and, of course, wearing a black hoodie in a coffee shop, looking mysterious.
@@ -183,15 +182,15 @@ Here’s a small list of cybersecurity certifications or general IT certificatio
 
 Everyone in this field, well almost everyone LOVES hands-on training, especially if it's directly applicable to our everyday roles and responsibilities.
 
-**[Hack The Box](https://www.hackthebox.com/)** - 
+**[Hack The Box](https://www.hackthebox.com/)** - An elite cybersecurity training platform offering real-world penetration testing labs, Capture the Flag (CTF) challenges, and full enterprise environments. Ideal for aspiring ethical hackers, red teamers, and blue team defenders looking to level up their skills.
 
-**[Try Hack Me](https://tryhackme.com/)** - 
+**[Try Hack Me](https://tryhackme.com/)** - A beginner-friendly cybersecurity learning platform that breaks down complex topics into guided, interactive modules. From network security to web exploitation, TryHackMe is perfect for hands-on learners and professionals building foundational and advanced skills alike.
 
-**[Over The Wire](https://overthewire.org/wargames/)** - 
+**[Over The Wire](https://overthewire.org/wargames/)** - A classic text-based wargame site where players solve progressively difficult Linux and cybersecurity puzzles. Great for beginners who want to learn command line skills, SSH, and the logic behind system exploitation.
 
-**[Ace Responder](https://aceresponder.com/)** - 
+**[Ace Responder](https://aceresponder.com/)** - Focused on incident response and blue team operations, Ace Responder delivers practical labs, challenges, and tabletop scenarios to help analysts sharpen their detection and response skills in realistic environments.
 
-**[Vuln Hub](https://www.vulnhub.com/)** - 
+**[Vuln Hub](https://www.vulnhub.com/)** - A massive archive of downloadable vulnerable virtual machines designed to simulate real-world systems. Perfect for pentesters and students practicing exploitation, privilege escalation, and full kill-chain attacks in an offline lab environment.
 
 ## Build a Home Lab!
 
