@@ -1,13 +1,39 @@
 ---
 title: "🔥 The Digital Battleground: Iran and Israel’s Cyber Clash Ignites in Just 72 Hours"
 description: "June 2025 saw a digital war erupt between Iran and Israel, blending cyberattacks with real-world conflict. Explore the timeline, key players, and global implications of this 72-hour cyber blitz."
-author: "Book Creator Guide"
+author: "Remotely Root"
 date: 2025-06-19
 categories: [Cybersecurity, Geopolitics, Middle East, Technology]
-tags: [cyberwarfare, Iran, Israel, Predatory Sparrow, APT34, Charming Kitten, Nobitex, Sepah Bank, hacktivism]
-layout: post
-image: /assets/images/cyberwar-iran-israel.jpg
+tags: [cyberwarfare, Iran, Israel, Predatory Sparrow, APT34, Charming Kitten, Nobitex, Sepah Bank, hacktivism, cyberattack timeline, cyber conflict 2025]
+
+# SEO Metadata
+keywords:
+  - Iran Israel cyber war
+  - June 2025 cyberattacks
+  - Predatory Sparrow attack
+  - Nobitex crypto hack
+  - APT34 Charming Kitten
+  - Middle East cyber warfare
+  - Israel cyber retaliation
+  - hacktivist groups cyberwar
+  - timeline of Iran cyber attacks
+  - digital battlefield 2025
+
+canonical_url: https://yourblogdomain.com/posts/iran-israel-cyber-clash-72-hours
+excerpt: "In a whirlwind 72 hours, Iran and Israel escalated digital warfare—crippling banks, blacking out networks, and disrupting crypto systems. Here's the full cyber timeline."
+
+# Open Graph / Twitter SEO
+seo:
+  type: article
+  og:
+    title: "Iran vs. Israel: Inside the 72-Hour Cyber War That Shocked the World"
+    description: "A play-by-play of the recent cyber warfare blitz between Iran and Israel. From Nobitex to Sepah Bank—what happened, who’s responsible, and what it means for global cybersecurity."
+  twitter:
+    card: summary_large_image
+    title: "🔥 Iran and Israel’s 72-Hour Cyber Showdown"
+    description: "Digital war broke out in June 2025. Explore the full cyberattack timeline, key threat actors, and what comes next in this global cyber escalation."
 ---
+
 
 # 🔥 The Digital Battleground: Iran and Israel’s Cyber Clash Ignites in Just 72 Hours
 
