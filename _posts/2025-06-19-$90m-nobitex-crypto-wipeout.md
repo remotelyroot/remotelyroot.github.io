@@ -9,15 +9,18 @@ keywords: ["Nobitex hack", "Predatory Sparrow", "crypto cybersecurity", "blockch
 image: /assets/images/nobitex-wipeout-cover.png
 canonical_url: https://remotelyroot.com/posts/2025-06-19-$90m-nobitex-crypto-wipeout
 excerpt: "Predatory Sparrow wipes $90M in crypto from Iran's Nobitex exchange. Explore the attack chain, blockchain forensics, and the evolving battlefield of cyberwarfare."
-seo:
-  type: article
-  twitter:
-    card: summary_large_image
-    image: /assets/images/nobitex-wipeout-cover.png
-  og:
-    title: "$90M Nobitex Crypto Wipeout: Predatory Sparrow's Most Surgical Cyberstrike Yet"
-    description: "Explore how the Nobitex crypto hack unfolded, the tactics used, and why it's a milestone in cyberwarfare history."
-    image: /assets/images/nobitex-wipeout-cover.png
+# SEO Metadata
+keywords:
+  - Iran Israel cyber war
+  - June 2025 cyberattacks
+  - Predatory Sparrow attack
+  - Nobitex crypto hack
+  - APT34 Charming Kitten
+  - Middle East cyber warfare
+  - Israel cyber retaliation
+  - hacktivist groups cyberwar
+  - timeline of Iran cyber attacks
+  - digital battlefield 2025
 ---
 
 # 🧨 The $90M Nobitex Crypto Wipeout: Predatory Sparrow's Most Surgical Cyberstrike Yet
