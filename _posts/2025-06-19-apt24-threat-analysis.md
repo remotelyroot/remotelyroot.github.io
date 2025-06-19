@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "APT24: The Phantom Threat Lurking in the Digital Shadows"
+title: "🎯 APT24: The Phantom Threat Lurking in the Digital Shadows"
 date: 2025-06-19
 author: Remotely Root
 
@@ -50,8 +50,6 @@ schema:
     url: /assets/img/favicons/apt24-threat-map.png
     alt: "Illustration of APT24 activity targeting Middle East organizations"
 ---
-
-# 🎯 APT24: The Phantom Threat Lurking in the Digital Shadows
 
 APT24 is a lesser-known but persistent **cyber espionage group**, suspected to operate out of or in service of **Middle Eastern geopolitical interests**. Though they lack the public branding of other APTs, their **surveillance-driven operations** reveal a well-resourced threat actor focused on government, telecom, finance, and foreign policy targets.
 

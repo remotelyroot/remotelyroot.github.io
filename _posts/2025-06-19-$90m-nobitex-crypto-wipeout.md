@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "$90M Nobitex Crypto Wipeout: Predatory Sparrow's Most Surgical Cyberstrike Yet"
+title: "🧨 The $90M Nobitex Crypto Wipeout: Predatory Sparrow's Most Surgical Cyberstrike Yet"
 date: 2025-06-19
 author: Remotely Root
 
@@ -66,8 +66,6 @@ schema:
     alt: "Illustration of a blockchain explosion in Iran's Nobitex exchange"
 ---
 
-
-# 🧨 The $90M Nobitex Crypto Wipeout: Predatory Sparrow's Most Surgical Cyberstrike Yet
 
 **Meta Description:**  
 In June 2025, cyber group Predatory Sparrow claimed to have wiped out $90 million in cryptocurrency from Iran's Nobitex exchange. Here's a deep dive into the tactics, techniques, blockchain forensics, and geopolitical consequences of this unprecedented cyber strike.
