@@ -35,7 +35,7 @@ keywords: [
 ]
 excerpt: "Want to start a cybersecurity career? This beginner’s guide covers everything from ethical hacking to certifications, home labs, job roles, and more in 2025."
 canonical_url: https://remotelyroot.com/posts/2025-06-14-how-to-start-cybersecurity-career
-image: /assets/images/favicons/cybersecurity-career-guide-cover.jpg
+image: /assets/images/favicons/cybersecurity-career-guide-cover.png
 layout: post
 lang: en
 robots: index, follow
@@ -44,7 +44,7 @@ seo:
   description: "The ultimate beginner’s guide to breaking into cybersecurity. Learn hacking skills, build a home lab, earn certifications, and launch your cyber career."
   type: article
   url: https://remotelyroot.com/posts/2025-06-14-how-to-start-cybersecurity-career
-  image: /assets/images/favicons/cybersecurity-career-guide-cover.jpg
+  image: /assets/images/favicons/cybersecurity-career-guide-cover.png
   twitter_card: summary_large_image
   twitter_site: "@RemotelyRoot"
   twitter_creator: "@DominicSpucches"
@@ -53,7 +53,7 @@ seo:
     description: "Launch your infosec career with this hands-on guide for aspiring cybersecurity professionals."
     type: article
     url: https://remotelyroot.com/posts/2025-06-14-how-to-start-cybersecurity-career
-    image: /assets/images/favicons/cybersecurity-career-guide-cover.jpg
+    image: /assets/images/favicons/cybersecurity-career-guide-cover.png
 ---
 
 
