@@ -19,7 +19,7 @@ keywords:
   - timeline of Iran cyber attacks
   - digital battlefield 2025
 
-canonical_url: https://yourblogdomain.com/posts/iran-israel-cyber-clash-72-hours
+canonical_url: https://remotelyroot.com/posts/2025-06-19-digital-battleground-iran-and-israel
 excerpt: "In a whirlwind 72 hours, Iran and Israel escalated digital warfare—crippling banks, blacking out networks, and disrupting crypto systems. Here's the full cyber timeline."
 
 # Open Graph / Twitter SEO
@@ -29,7 +29,6 @@ seo:
     title: "Iran vs. Israel: Inside the 72-Hour Cyber War That Shocked the World"
     description: "A play-by-play of the recent cyber warfare blitz between Iran and Israel. From Nobitex to Sepah Bank—what happened, who’s responsible, and what it means for global cybersecurity."
   twitter:
-    card: summary_large_image
     title: "🔥 Iran and Israel’s 72-Hour Cyber Showdown"
     description: "Digital war broke out in June 2025. Explore the full cyberattack timeline, key threat actors, and what comes next in this global cyber escalation."
 ---
