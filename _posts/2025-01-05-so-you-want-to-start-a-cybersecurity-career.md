@@ -1,7 +1,7 @@
 ---
 title: "How to Start a Cybersecurity Career: Beginner’s Guide to Hacking, Tech, and Digital Defense"
 description: "Launch your cybersecurity career with this comprehensive guide. Learn ethical hacking, certifications, tech skills, and how to land your first cybersecurity job in 2025."
-author: Remotely Root
+author: "Remotely Root"
 date: 2025-06-14
 categories: [Career, Cybersecurity, Technology]
 tags: [
@@ -274,4 +274,4 @@ My home lab is quite small but it includes the following...
 **[Learn Computer Forensics](https://amzn.to/4gsNUK2)** - Computer Forensics, being a broad topic, involves a variety of skills which will involve seizing electronic evidence, acquiring data from electronic evidence, data analysis, and finally developing a forensic report. This book will help you to build up the skills you need to work in a highly technical environment. This book's ideal goal is to get you up and running with forensics tools and techniques to successfully investigate crime and corporate misconduct. You will discover ways to collect personal information about an individual from online sources. You will also learn how criminal investigations are performed online while preserving data such as e-mails, images, and videos that may be important to a case. You will further explore networking and understand Network Topologies, IP Addressing, and Network Devices. Finally, you will how to write a proper forensic report, the most exciting portion of the forensic exam process.
 
 **[Practical Threat Intelligence and Data-Driven Threat Hunting](https://amzn.to/4hqZ8zU)** - Threat hunting (TH) provides cybersecurity analysts and enterprises with the opportunity to proactively defend themselves by getting ahead of threats before they can cause major damage to their business. This book is not only an introduction for those who don't know much about the cyber threat intelligence (CTI) and TH world, but also a guide for those with more advanced knowledge of other cybersecurity fields who are looking to implement a TH program from scratch. You will start by exploring what threat intelligence is and how it can be used to detect and prevent cyber threats. As you progress, you'll learn how to collect data, along with understanding it by developing data models. The book will also show you how to set up an environment for TH using open source tools. Later, you will focus on how to plan a hunt with practical examples, before going on to explore the MITRE ATT&CK framework.
-
+---
