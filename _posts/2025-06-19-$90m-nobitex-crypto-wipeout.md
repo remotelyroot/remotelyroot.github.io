@@ -19,6 +19,17 @@ keywords:
   - APT threat groups
   - cyberattack on crypto exchange
   - digital warfare 2025
+  - iran
+  - israel
+  - israel iran war
+  - israel cyber attacks
+  - iranian cyber attacks
+  - ww3 2025
+  - tel aviv
+  - iran surprise
+  - israel attacks iran wikipedia
+  - israel attacks iran
+  - iran attacks israel
 
 categories: [Cybersecurity, Cyber Warfare, Cryptocurrency, Threat Intelligence]
 tags:

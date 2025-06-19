@@ -39,6 +39,17 @@ keywords:
   - Cyber war timeline 2025
   - Cybersecurity and geopolitics
   - Real-time cyberattack analysis
+  - iran
+  - israel
+  - israel iran war
+  - israel cyber attacks
+  - iranian cyber attacks
+  - ww3 2025
+  - tel aviv
+  - iran surprise
+  - israel attacks iran wikipedia
+  - israel attacks iran
+  - iran attacks israel
 
 # Open Graph for Facebook, LinkedIn, etc.
 seo:

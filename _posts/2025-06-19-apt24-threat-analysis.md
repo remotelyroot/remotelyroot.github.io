@@ -19,6 +19,17 @@ keywords:
   - cyber kill chain
   - APT24 PowerShell malware
   - defending against APTs
+  - iran
+  - israel
+  - israel iran war
+  - israel cyber attacks
+  - iranian cyber attacks
+  - ww3 2025
+  - tel aviv
+  - iran surprise
+  - israel attacks iran wikipedia
+  - israel attacks iran
+  - iran attacks israel
 
 categories: [Cybersecurity, Threat Intelligence, APT Groups]
 tags: [APT24, cyber threat group, cyber espionage, TTPs, Iranian APTs, PowerShell malware, IOC hunting]
