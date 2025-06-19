@@ -10,7 +10,7 @@ excerpt: "Iran and Israel engaged in a 72-hour cyber showdown in June 2025. Dive
 
 # Canonical and Social Sharing
 canonical_url: https://remotelyroot.com/posts/2025-06-19-digital-battleground-iran-and-israel
-image: /assets/images/iran-israel-cyberwar-2025-cover.png
+image: assets/img/favicons/iran-israel-cyberwar-2025-cover.png
 image_alt: "Cyber conflict illustration between Iran and Israel during June 2025 attacks"
 
 # Categories and Tags for Organization and SEO
@@ -46,7 +46,7 @@ seo:
   og:
     title: "Iran and Israel's 72-Hour Cyber Blitz – Full Breakdown"
     description: "The June 2025 cyber conflict between Iran and Israel spanned banking attacks, crypto destruction, and internet blackouts. Here’s the full story."
-    image: /assets/images/iran-israel-cyberwar-2025-cover.png
+    image: /assets/img/favicons/iran-israel-cyberwar-2025-cover.png
     image_alt: "Digital map of Iran and Israel cyberattack paths"
     url: https://remotelyroot.com/posts/2025-06-19-digital-battleground-iran-and-israel
 
