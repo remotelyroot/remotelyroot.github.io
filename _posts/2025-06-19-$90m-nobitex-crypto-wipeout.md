@@ -34,7 +34,7 @@ tags:
   - Middle East cyber conflict
 
 canonical_url: https://remotelyroot.com/posts/2025-06-19-$90m-nobitex-crypto-wipeout
-image: /assets/images/nobitex-wipeout-cover.png
+image: /assets/img/favicons/nobitex-wipeout-cover.png
 image_alt: "Map of Iran overlaid with digital effects symbolizing crypto attack on Nobitex exchange"
 
 # Open Graph / Social Sharing
@@ -43,7 +43,7 @@ seo:
   og:
     title: "$90M Nobitex Crypto Wipeout: A Case Study in Cyber Sabotage"
     description: "Deep dive into Predatory Sparrow’s devastating cyberattack on Iran’s Nobitex exchange. Includes blockchain analysis, attack vectors, and geopolitical fallout."
-    image: /assets/images/favicons/nobitex-wipeout-cover.png
+    image: /assets/img/favicons/nobitex-wipeout-cover.png
     url: https://remotelyroot.com/posts/2025-06-19-$90m-nobitex-crypto-wipeout
     image_alt: "Cyber-themed visual representing the Nobitex crypto breach"
 
@@ -51,7 +51,7 @@ seo:
     card: summary_large_image
     title: "$90M Nobitex Crypto Hack by Predatory Sparrow – Full Breakdown"
     description: "How did one APT group digitally incinerate $90 million? A forensic breakdown of Iran's biggest crypto breach."
-    image: /assets/images/nobitex-wipeout-cover.png
+    image: /assets/img/favicons/nobitex-wipeout-cover.png
     image_alt: "Digital wallet breach illustration – Nobitex"
 
 # Structured Data (Optional for rich snippets)
