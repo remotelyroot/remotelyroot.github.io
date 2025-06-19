@@ -1,27 +1,71 @@
 ---
+layout: post
 title: "$90M Nobitex Crypto Wipeout: Predatory Sparrow's Most Surgical Cyberstrike Yet"
 date: 2025-06-19
 author: Remotely Root
-categories: [Cybersecurity, Cyber Warfare, Cryptocurrency]
-tags: [Nobitex, Predatory Sparrow, crypto hack, Iran cyber attack, blockchain security, APT]
-description: "Deep dive into the $90M Nobitex hack by Predatory Sparrow. Learn the technical details, attack vector, blockchain impact, and global cybersecurity implications."
-keywords: ["Nobitex hack", "Predatory Sparrow", "crypto cybersecurity", "blockchain forensics", "hot wallet attack", "Iran Israel cyberwar", "APT threat group"]
-canonical_url: https://remotelyroot.com/posts/2025-06-19-$90m-nobitex-crypto-wipeout
-excerpt: "Predatory Sparrow wipes $90M in crypto from Iran's Nobitex exchange. Explore the attack chain, blockchain forensics, and the evolving battlefield of cyberwarfare."
-# SEO Metadata
+
+# SEO Meta
+description: "In June 2025, cyber group Predatory Sparrow executed a precision cyberattack on Iran's Nobitex crypto exchange, destroying $90M in digital assets. This post unpacks the TTPs, blockchain forensics, and national security implications."
+excerpt: "Predatory Sparrow wipes $90M in crypto from Iran's Nobitex exchange. Explore how it was done, who did it, and what it means for the future of cyberwarfare and crypto defense."
 
 keywords:
+  - Nobitex hack
+  - Predatory Sparrow
+  - June 2025 cyberattack
+  - crypto cybersecurity
+  - blockchain forensics
+  - hot wallet destruction
   - Iran Israel cyber war
-  - June 2025 cyberattacks
-  - Predatory Sparrow attack
-  - Nobitex crypto hack
-  - APT34 Charming Kitten
-  - Middle East cyber warfare
-  - Israel cyber retaliation
-  - hacktivist groups cyberwar
-  - timeline of Iran cyber attacks
-  - digital battlefield 2025
+  - APT threat groups
+  - cyberattack on crypto exchange
+  - digital warfare 2025
+
+categories: [Cybersecurity, Cyber Warfare, Cryptocurrency, Threat Intelligence]
+tags:
+  - Nobitex
+  - Predatory Sparrow
+  - APT34
+  - Charming Kitten
+  - crypto hack
+  - Iran cyber attack
+  - blockchain security
+  - cyber forensics
+  - wallet compromise
+  - Middle East cyber conflict
+
+canonical_url: https://remotelyroot.com/posts/2025-06-19-$90m-nobitex-crypto-wipeout
+image: /assets/images/nobitex-wipeout-cover.png
+image_alt: "Map of Iran overlaid with digital effects symbolizing crypto attack on Nobitex exchange"
+
+# Open Graph / Social Sharing
+seo:
+  type: article
+  og:
+    title: "$90M Nobitex Crypto Wipeout: A Case Study in Cyber Sabotage"
+    description: "Deep dive into Predatory Sparrow’s devastating cyberattack on Iran’s Nobitex exchange. Includes blockchain analysis, attack vectors, and geopolitical fallout."
+    image: /assets/images/nobitex-wipeout-cover.png
+    url: https://remotelyroot.com/posts/2025-06-19-$90m-nobitex-crypto-wipeout
+    image_alt: "Cyber-themed visual representing the Nobitex crypto breach"
+
+  twitter:
+    card: summary_large_image
+    title: "$90M Nobitex Crypto Hack by Predatory Sparrow – Full Breakdown"
+    description: "How did one APT group digitally incinerate $90 million? A forensic breakdown of Iran's biggest crypto breach."
+    image: /assets/images/nobitex-wipeout-cover.png
+    image_alt: "Digital wallet breach illustration – Nobitex"
+
+# Structured Data (Optional for rich snippets)
+schema:
+  type: BlogPosting
+  headline: "$90M Nobitex Crypto Wipeout"
+  datePublished: 2025-06-19
+  author:
+    name: "Remotely Root"
+  image:
+    url: /assets/images/nobitex-wipeout-cover.png
+    alt: "Illustration of a blockchain explosion in Iran's Nobitex exchange"
 ---
+
 
 # 🧨 The $90M Nobitex Crypto Wipeout: Predatory Sparrow's Most Surgical Cyberstrike Yet
 

@@ -1,26 +1,69 @@
 ---
+layout: post
 title: "🔥 The Digital Battleground: Iran and Israel’s Cyber Clash Ignites in Just 72 Hours"
-description: "June 2025 saw a digital war erupt between Iran and Israel, blending cyberattacks with real-world conflict. Explore the timeline, key players, and global implications of this 72-hour cyber blitz."
-author: "Remotely Root"
 date: 2025-06-19
-categories: [Cybersecurity, Geopolitics, Middle East, Technology]
-tags: [cyberwarfare, Iran, Israel, Predatory Sparrow, APT34, Charming Kitten, Nobitex, Sepah Bank, hacktivism, cyberattack timeline, cyber conflict 2025]
+author: "Remotely Root"
 
-# SEO Metadata
-keywords:
+# SEO Essentials
+description: "In June 2025, Iran and Israel launched a wave of cyberattacks that escalated tensions to a digital boiling point. Explore the full timeline, key threat actors like Predatory Sparrow and APT34, and the global implications of this 72-hour cyber war."
+excerpt: "Iran and Israel engaged in a 72-hour cyber showdown in June 2025. Dive into the full timeline, explore who’s behind the attacks, and what it means for global cyber warfare."
+
+# Canonical and Social Sharing
+canonical_url: https://remotelyroot.com/posts/2025-06-19-digital-battleground-iran-and-israel
+image: /assets/images/iran-israel-cyberwar-2025-cover.png
+image_alt: "Cyber conflict illustration between Iran and Israel during June 2025 attacks"
+
+# Categories and Tags for Organization and SEO
+categories: [Cybersecurity, Geopolitics, Middle East, Technology]
+tags:
   - Iran Israel cyber war
   - June 2025 cyberattacks
-  - Predatory Sparrow attack
-  - Nobitex crypto hack
-  - APT34 Charming Kitten
-  - Middle East cyber warfare
-  - Israel cyber retaliation
-  - hacktivist groups cyberwar
-  - timeline of Iran cyber attacks
-  - digital battlefield 2025
+  - Predatory Sparrow
+  - APT34
+  - Charming Kitten
+  - Nobitex hack
+  - Sepah Bank
+  - cyber warfare timeline
+  - hacktivist attacks
+  - digital war escalation
 
-canonical_url: https://remotelyroot.com/posts/2025-06-19-digital-battleground-iran-and-israel
-excerpt: "In a whirlwind 72 hours, Iran and Israel escalated digital warfare—crippling banks, blacking out networks, and disrupting crypto systems. Here's the full cyber timeline."
+# Keywords for SERPs
+keywords:
+  - Iran Israel cyber conflict
+  - Predatory Sparrow APT
+  - Nobitex crypto attack
+  - Charming Kitten Iran APT
+  - Middle East cyber warfare
+  - Sepah Bank hack
+  - Iranian hacktivist groups
+  - Cyber war timeline 2025
+  - Cybersecurity and geopolitics
+  - Real-time cyberattack analysis
+
+# Open Graph for Facebook, LinkedIn, etc.
+seo:
+  type: article
+  og:
+    title: "Iran and Israel's 72-Hour Cyber Blitz – Full Breakdown"
+    description: "The June 2025 cyber conflict between Iran and Israel spanned banking attacks, crypto destruction, and internet blackouts. Here’s the full story."
+    image: /assets/images/iran-israel-cyberwar-2025-cover.png
+    image_alt: "Digital map of Iran and Israel cyberattack paths"
+    url: https://remotelyroot.com/posts/2025-06-19-digital-battleground-iran-and-israel
+
+# Twitter Card for social media
+  twitter:
+    card: summary_large_image
+    title: "🔥 Iran and Israel’s 72-Hour Cyber Showdown – Timeline & Threat Analysis"
+    description: "Missiles weren’t the only weapons in June 2025. This cyber war rocked financial systems and national security. Learn who attacked, how, and what it means."
+    image_alt: "Cyber warfare timeline between Israel and Iran"
+
+# Structured Data for Better SERP Rich Snippets (Optional if you use Jekyll SEO Tag)
+schema:
+  type: BlogPosting
+  headline: "The Digital Battleground: Iran and Israel’s Cyber Clash"
+  datePublished: 2025-06-19
+  author:
+    name: "Remotely Root"
 ---
 
 
