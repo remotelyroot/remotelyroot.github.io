@@ -43,7 +43,7 @@ seo:
   og:
     title: "$90M Nobitex Crypto Wipeout: A Case Study in Cyber Sabotage"
     description: "Deep dive into Predatory Sparrow’s devastating cyberattack on Iran’s Nobitex exchange. Includes blockchain analysis, attack vectors, and geopolitical fallout."
-    image: /assets/images/nobitex-wipeout-cover.png
+    image: /assets/images/favicons/nobitex-wipeout-cover.png
     url: https://remotelyroot.com/posts/2025-06-19-$90m-nobitex-crypto-wipeout
     image_alt: "Cyber-themed visual representing the Nobitex crypto breach"
 
@@ -62,7 +62,7 @@ schema:
   author:
     name: "Remotely Root"
   image:
-    url: /assets/images/nobitex-wipeout-cover.png
+    url: /assets/images/favicons/nobitex-wipeout-cover.png
     alt: "Illustration of a blockchain explosion in Iran's Nobitex exchange"
 ---
 
