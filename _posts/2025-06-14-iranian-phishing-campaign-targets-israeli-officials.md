@@ -1,10 +1,22 @@
 ---
 title: "🎯 Iranian Phishing Campaign Targets Israeli Officials, Journalists, and Academics in 2025"
-description: "Israeli security services have foiled 85 cyberattacks linked to Iranian actors using phishing via WhatsApp, Telegram, and fake meeting invites. Learn how the attack worked and how to stay protected."
+description: "In a wave of targeted cyber espionage, Iranian threat actors attempted 85 phishing attacks against Israeli officials, journalists, and academics—using WhatsApp, Telegram, and fake calendar invites. This breakdown reveals the methods, motives, and how you can guard against similar threats."
 date: 2025-06-14T00:00:00Z
 author: "Remotely Root"
 categories: [Cybersecurity, Threat Intelligence, Geopolitics]
 tags: [Iranian cyberattack, phishing campaign, Israel cyberattack, cyber espionage, Middle East cyber conflict, targeted phishing, Iranian threat actors, social engineering, Telegram phishing, WhatsApp phishing]
+keywords: [
+  "Iran phishing campaign 2025",
+  "phishing attacks on Israeli officials",
+  "WhatsApp phishing threat",
+  "Telegram cyber attack",
+  "Iranian threat actors tactics",
+  "spear phishing in geopolitics",
+  "how to detect phishing messages",
+  "cyber attacks on Israeli journalists",
+  "fake calendar invites phishing",
+  "state-sponsored phishing campaigns"
+]
 ---
 
 In one of the most aggressive cyber-espionage campaigns of 2025, **Iranian-linked hackers have launched over 85 coordinated phishing attacks** targeting **Israeli politicians, journalists, academics, and public officials**.
@@ -55,12 +67,12 @@ The campaign ran parallel to growing **geopolitical tension between Israel and I
 
 ## 🧪 Technical Indicators (TTPs)
 
-| Indicator                    | Description                                               |
-|-----------------------------|-----------------------------------------------------------|
-| `invites-google.com.meet-sso/login` | Phishing page spoofing Google Meet login              |
-| `@gov-support.org.il`       | Spoofed sender domain for email impersonation             |
-| Telegram link redirects     | Redirecting to malware-hosting cloud drives               |
-| Trojan filename example     | `invite-schedule-brief.exe` (executed on click)           |
+| Indicator                           | Description                                     |
+| ----------------------------------- | ----------------------------------------------- |
+| `invites-google.com.meet-sso/login` | Phishing page spoofing Google Meet login        |
+| `@gov-support.org.il`               | Spoofed sender domain for email impersonation   |
+| Telegram link redirects             | Redirecting to malware-hosting cloud drives     |
+| Trojan filename example             | `invite-schedule-brief.exe` (executed on click) |
 
 > ⚠️ **Important:** These IOCs are fictionalized for education. Always cross-reference with real threat intel feeds.
 

@@ -1,11 +1,13 @@
 ---
 title: "Phishing Email Breakdown: How to Spot the Subtle Tricks 🎣"
-description: "Learn how to spot phishing emails by breaking down the subtle psychological and technical tactics attackers use to deceive you. Protect your inbox like a pro."
+description: "Think you're too smart to get phished? Think again. This 2025 breakdown teaches you how to catch the subtle red flags in phishing emails—from sneaky sender addresses to psychological manipulation. Includes examples, screenshots, and pro-level tips."
 date: 2025-06-14T00:00:00Z
 author: Remotely Root
 categories: [Cybersecurity, Awareness]
 tags: [phishing, email security, cybersecurity awareness, social engineering, spear phishing, how to detect phishing, beginner guide]
+keywords: ["how to spot phishing emails", "phishing email examples 2025", "email red flags", "social engineering tricks", "email security guide", "protect inbox from phishing"]
 ---
+
 
 We’ve all seen them—those suspicious emails that make your gut say “Hmm.” But phishing isn’t always obvious. Attackers have gotten smarter, more patient, and sneakier. Today’s phishing email doesn’t come from a Nigerian prince—it comes from “HR” asking you to update your payroll info, or from “Amazon” telling you there’s a problem with your order.
 
@@ -108,11 +110,11 @@ Red flags:
 
 ## ⚔️ Bonus: Phishing vs. Spear Phishing vs. Whaling
 
-| Type           | Description                                      | Target             |
-|----------------|--------------------------------------------------|--------------------|
-| Phishing       | Mass email scams                                 | General public     |
-| Spear Phishing | Tailored scam with personal details              | Individuals        |
-| Whaling        | Attacks targeting high-level executives (CEO/CFO)| Big fish 🐋         |
+| Type           | Description                                       | Target         |
+| -------------- | ------------------------------------------------- | -------------- |
+| Phishing       | Mass email scams                                  | General public |
+| Spear Phishing | Tailored scam with personal details               | Individuals    |
+| Whaling        | Attacks targeting high-level executives (CEO/CFO) | Big fish 🐋     |
 
 ---
 
