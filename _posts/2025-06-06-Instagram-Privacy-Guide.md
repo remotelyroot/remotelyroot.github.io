@@ -1,10 +1,32 @@
 ---
-title: '🔐 Updated Instagram Privacy Settings (Verified)'
+title: "🔒 How to Make Your Instagram Profile Private in 2025: The Ultimate Step-by-Step Privacy Guide"
 date: 2025-06-06T00:00:00Z
-author: Remotely Root
-description: 
-categories: [Education, Privacy]
-tags: [education, privacy, facebook, guide, instagram, social media]
+author: "Remotely Root"
+description: "Take control of your digital privacy in 2025. This updated Instagram privacy guide walks you through every step to lock down your account, limit who can see your posts, and protect your personal info from prying eyes."
+categories: [Social Media, Privacy, Education]
+tags:
+  - instagram privacy settings 2025
+  - how to make instagram private
+  - social media privacy tips
+  - protect your instagram account
+  - digital privacy guide
+  - step-by-step instagram tutorial
+  - secure social media profile
+  - instagram safety for teens
+  - privacy settings for beginners
+excerpt: "Your Instagram profile says more about you than you think. In this 2025 privacy guide, learn exactly how to make your account private, hide your content from strangers, and take control of your digital footprint."
+keywords:
+  - instagram privacy 2025
+  - make instagram account private
+  - how to hide instagram posts
+  - instagram privacy tutorial
+  - protect social media profile
+  - private mode instagram
+  - instagram settings explained
+  - how to lock down your instagram
+  - instagram safety tips
+  - digital privacy 101
+
 ---
 
 
