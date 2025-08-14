@@ -5,20 +5,20 @@ author: "Remotely Root"
 date: 2025-06-14
 categories: [Career, Cybersecurity, Technology]
 tags: [
-  cybersecurity, 
-  cybersecurity career, 
-  ethical hacking, 
-  infosec, 
-  blue team, 
-  red team, 
-  penetration testing, 
-  cyber jobs, 
-  tech careers, 
-  beginner cybersecurity, 
-  learn cybersecurity, 
-  cybersecurity certifications, 
-  home lab, 
-  SOC analyst
+  "cybersecurity", 
+  "cybersecurity career", 
+  "ethical hacking", 
+  "infosec", 
+  "blue team", 
+  "red team", 
+  "penetration testing", 
+  "cyber jobs", 
+  "tech careers", 
+  "beginner cybersecurity", 
+  "learn cybersecurity", 
+  "cybersecurity certifications", 
+  "home lab", 
+  "SOC analyst"
 ]
 keywords: [
   "cybersecurity career",

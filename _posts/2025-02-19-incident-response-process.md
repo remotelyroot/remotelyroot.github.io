@@ -5,19 +5,19 @@ pubDate: 2025-02-19
 author: "Remotely Root"
 categories: [Education, Incident Response]
 tags: [
-  incident response,
-  IR lifecycle,
-  cybersecurity,
-  DFIR,
-  SOC operations,
-  cyber defense,
-  digital forensics,
-  threat detection,
-  IR playbook,
-  cybersecurity career,
-  security operations,
-  blue team guide,
-  IR best practices
+  "incident response",
+  "IR lifecycle",
+  "cybersecurity",
+  "DFIR",
+  "SOC operations",
+  "cyber defense",
+  "digital forensics",
+  "threat detection",
+  "IR playbook",
+  "cybersecurity career",
+  "security operations",
+  "blue team guide",
+  "IR best practices"
 ]
 keywords: [
   "incident response process",
