@@ -4,7 +4,7 @@ date: 2025-05-18T00:00:00Z
 author: Remotely Root
 description: "Confused by cybersecurity buzzwords like SIEM, SOAR, and XDR? Learn what they actually do, how they work together, and why they matter in defending against threats."
 categories: [Education, Beginner]
-tags: [cybersecurity, siem, soar, xdr, incident response, SOC, threat detection]
+tags: [cybersecurity, siem, soar, xdr, incident response, SOC, threat detection, remotely root, remotelyroot]
 ---
 
 For someone who is just getting their feet wet in cybersecurity, it can be overwhelming and confusing to hear the wide variety of tools a security professional may use. Defining them alone can be difficult if you're new—let alone having a concrete understanding of how they function and what they actually accomplish. Nevertheless, I hope you find this blog post useful. Happy reading.
@@ -63,12 +63,12 @@ XDR shines in environments that want *correlation + action* without the need to 
 
 ## 🔄 TL;DR Comparison Table
 
-| Feature            | SIEM                        | SOAR                                     | XDR                               |
-|--------------------|-----------------------------|------------------------------------------|------------------------------------|
-| Primary Focus       | Log collection & analysis   | Workflow automation & incident response  | Threat detection & response        |
-| Key Benefit         | Event correlation & alerting| Speeds up and standardizes response      | Cross-layer detection & action     |
-| Replaces Human?     | No                          | No (amplifies humans)                    | No (but reduces workload)          |
-| Typical Use Case    | Monitoring + compliance     | Alert triage + automated remediation     | Unified threat detection           |
+| Feature          | SIEM                         | SOAR                                    | XDR                            |
+| ---------------- | ---------------------------- | --------------------------------------- | ------------------------------ |
+| Primary Focus    | Log collection & analysis    | Workflow automation & incident response | Threat detection & response    |
+| Key Benefit      | Event correlation & alerting | Speeds up and standardizes response     | Cross-layer detection & action |
+| Replaces Human?  | No                           | No (amplifies humans)                   | No (but reduces workload)      |
+| Typical Use Case | Monitoring + compliance      | Alert triage + automated remediation    | Unified threat detection       |
 
 ---
 

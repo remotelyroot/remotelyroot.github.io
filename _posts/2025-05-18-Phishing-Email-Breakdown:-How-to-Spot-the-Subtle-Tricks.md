@@ -5,7 +5,7 @@ date: 2025-06-14T00:00:00Z
 author: Remotely Root
 categories: [Cybersecurity, Awareness]
 tags: [phishing, email security, cybersecurity awareness, social engineering, spear phishing, how to detect phishing, beginner guide]
-keywords: ["how to spot phishing emails", "phishing email examples 2025", "email red flags", "social engineering tricks", "email security guide", "protect inbox from phishing"]
+keywords: ["how to spot phishing emails", "phishing email examples 2025", "email red flags", "social engineering tricks", "email security guide", "protect inbox from phishing", "remotelyroot"]
 ---
 
 

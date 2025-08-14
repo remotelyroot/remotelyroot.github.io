@@ -1,11 +1,11 @@
 ---
-title: "How to Make Your Facebook Profile Private: The 2025 Privacy Guide"
+title: "🔒 How to Make Your Facebook Profile Private: The 2025 Privacy Guide"
 description: "Learn how to lock down your Facebook account with this step-by-step 2025 privacy guide. Includes screenshots, infographic, and recommended settings for maximum profile security."
 date: 2025-06-06T00:00:00Z
 keywords: ["Facebook privacy settings", "how to make Facebook private", "Facebook privacy 2025", "secure Facebook account", "Facebook security settings", "social media privacy tips"]
 author: Remotely Root
 categories: [Education, Privacy]
-tags: ["privacy", "Facebook", "social media", "security", "online safety"]
+tags: ["privacy", "Facebook", "social media", "security", "online safety", "remotelyroot"]
 ---
 
 Facebook now offers a **Privacy Checkup** tool—a guided walk-through of key settings to help you take control fast.

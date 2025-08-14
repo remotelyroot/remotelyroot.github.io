@@ -3,7 +3,7 @@ title: "🔒 How to Make Your Instagram Profile Private in 2025: The Ultimate St
 date: 2025-06-06T00:00:00Z
 author: "Remotely Root"
 description: "Take control of your digital privacy in 2025. This updated Instagram privacy guide walks you through every step to lock down your account, limit who can see your posts, and protect your personal info from prying eyes."
-categories: [Social Media, Privacy, Education]
+tags: ["privacy", "instagram", "social media", "security", "online safety", "remotelyroot", "insta"]
 tags:
   - instagram privacy settings 2025
   - how to make instagram private
