@@ -4,7 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# 👋 About Me
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
 
 Welcome to **Remotely Root** — my corner of the internet dedicated to **cyber defense, threat hunting, and security knowledge sharing**.
 
@@ -31,9 +32,9 @@ The name comes from the idea that attackers only need one foothold to cause chao
 ## 🤝 Let’s Connect
 I believe knowledge should be **shared, not hoarded**. If something here helps you, pass it on. And if you’ve got insights, feedback, or just want to connect:
 
-- 💼 [LinkedIn](https://linkedin.com/)  
-- 🐦 [Twitter / X](https://twitter.com/)  
-- ✉️ Reach me at: `youremail@example.com`
+- 💼 [Github](https://github.com/remotelyroot)  
+- 🐦 [Twitter / X](https://twitter.com/remotelyroot)  
+- ✉️ Reach me at: `contact@remotelyroot.com`
 
 ---
 
