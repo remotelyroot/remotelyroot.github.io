@@ -3,7 +3,7 @@ title: "🕸️ Top Internet Scams to Watch Out for in 2025: Romance, Crypto, an
 date: 2025-06-08T00:00:00Z
 author: "Remotely Root"
 description: "Stay ahead of scammers in 2025 with this guide to identifying and avoiding the most dangerous internet scams—including romance fraud, crypto cons, phishing attacks, fake investments, and identity theft."
-categories: [Education, Scams, Cybersecurity, Fraud Prevention]
+categories: [Threats, Scams]
 tags: [
   "internet scams 2025",
   "romance scams",

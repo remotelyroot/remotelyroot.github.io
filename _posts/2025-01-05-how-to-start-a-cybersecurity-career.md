@@ -3,7 +3,7 @@ title: "How to Start a Cybersecurity Career: Beginner’s Guide to Hacking, Tech
 description: "Launch your cybersecurity career with this comprehensive guide. Learn ethical hacking, certifications, tech skills, and how to land your first cybersecurity job in 2025."
 author: "Remotely Root"
 date: 2025-06-14
-categories: [Career, Cybersecurity, Technology]
+categories: [Guides, How-to]
 tags: [
   "cybersecurity", 
   "cybersecurity career", 

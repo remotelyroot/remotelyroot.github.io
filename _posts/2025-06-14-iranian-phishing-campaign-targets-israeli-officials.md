@@ -3,7 +3,7 @@ title: "🎯 Iranian Phishing Campaign Targets Israeli Officials, Journalists, a
 description: "In a wave of targeted cyber espionage, Iranian threat actors attempted 85 phishing attacks against Israeli officials, journalists, and academics—using WhatsApp, Telegram, and fake calendar invites. This breakdown reveals the methods, motives, and how you can guard against similar threats."
 date: 2025-06-14T00:00:00Z
 author: "Remotely Root"
-categories: [Cybersecurity, Threat Intelligence, Geopolitics]
+categories: [Analysis, Geopolitics]
 tags: [Iranian cyberattack, phishing campaign, Israel cyberattack, cyber espionage, Middle East cyber conflict, targeted phishing, Iranian threat actors, social engineering, Telegram phishing, WhatsApp phishing]
 keywords: [
   "Iran phishing campaign 2025",

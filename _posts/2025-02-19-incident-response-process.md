@@ -3,7 +3,7 @@ title: "🛡️ Mastering the 6 Steps of Incident Response: A Practical Guide fo
 description: "Ready to level up your cybersecurity skills? This guide breaks down the six essential phases of the Incident Response (IR) lifecycle—from preparation to post-incident recovery. Learn how each step works, why it’s critical, and how to apply it in real-world SOC and DFIR environments."
 pubDate: 2025-02-19
 author: "Remotely Root"
-categories: [Education, Incident Response]
+categories: [Guides, Incident Response]
 tags: [
   "incident response",
   "IR lifecycle",

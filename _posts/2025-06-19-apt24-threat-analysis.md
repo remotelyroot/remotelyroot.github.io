@@ -28,7 +28,7 @@ keywords:
   - cyber warfare Middle East
   - APT detection strategies
 
-categories: [Cybersecurity, Threat Intelligence, APT Groups]
+categories: [Analysis, Geopolitics]
 tags: [APT24, cyber threat group, cyber espionage, TTPs, Iranian APTs, PowerShell malware, IOC hunting]
 
 canonical_url: https://remotelyroot.com/posts/2025-06-19-apt24-threat-analysis

@@ -4,7 +4,7 @@ description: "Learn how to lock down your Facebook account with this step-by-ste
 date: 2025-06-06T00:00:00Z
 keywords: ["Facebook privacy settings", "how to make Facebook private", "Facebook privacy 2025", "secure Facebook account", "Facebook security settings", "social media privacy tips"]
 author: Remotely Root
-categories: [Education, Privacy]
+categories: [Guides, Privacy]
 tags: ["privacy", "Facebook", "social media", "security", "online safety", "remotelyroot"]
 ---
 

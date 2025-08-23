@@ -3,7 +3,7 @@ title: "🇮🇱 Israel’s Recent Cyber & Hybrid Attacks on Iran: A Deep Dive"
 description: "In a bold escalation since June 2025, Israel has launched coordinated cyber operations and kinetic strikes against Iran’s nuclear and military assets. This deep dive unpacks the timeline, key targets, digital tactics, and geopolitical implications—offering critical insight into the evolving landscape of modern hybrid warfare."
 date: 2025-06-14T00:00:00Z
 author: "Remotely Root"
-categories: [Cybersecurity, Geopolitics, Threat Intelligence]
+categories: [Analysis, Geopolitics]
 tags: [Israel cyber attack Iran, Operation Rising Lion, Israeli cyber operations, Iran-Israel cyber warfare, Middle East cyber conflict, hybrid warfare, missile strikes, Mossad sabotage]
 keywords: [
   "Israel Iran cyber war 2025",
