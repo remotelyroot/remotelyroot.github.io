@@ -10,7 +10,7 @@ excerpt: "Hackers don’t just break systems—they run operations like business
 
 # Canonical and Social Sharing
 canonical_url: https://remotelyroot.com/posts/2025-09-05-if-hackers-ran-fortune-500
-image: /assets/img/favicons/hacker-fortune-500-cover.png
+image:
 image_alt: "Dark-themed org chart parody of a hacker Fortune 500 company"
 
 # Categories and Tags for Organization and SEO
