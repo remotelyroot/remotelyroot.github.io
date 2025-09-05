@@ -9,7 +9,7 @@ description: "What if cybercriminals ran a Fortune 500 company? Explore the sati
 excerpt: "Hackers don’t just break systems—they run operations like businesses. Take a satirical tour through the departments, metrics, and innovation strategies of 'HackCorp™' and learn real lessons for defenders."
 
 # Canonical and Social Sharing
-canonical_url: https://remotelyroot.com/posts/2025-09-05-if-hackers-ran-fortune-500
+canonical_url: https://remotelyroot.com/posts/2025-09-05-if-hackers-ran-a-fortune-500-company
 image:
 image_alt: "Dark-themed org chart parody of a hacker Fortune 500 company"
 
