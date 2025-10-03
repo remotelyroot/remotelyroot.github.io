@@ -227,10 +227,10 @@ Here are a few recommended books for small business owners:
 
 ## Relevant Books
 
-- 1. [Creating a Small Business Cybersecurity Program: A Non-Technical Guide for Small Business Owners](https://amzn.to/4la6ybM)
-- 2. [Cybersecurity: The Beginner's Guide: A comprehensive guide to getting started in cybersecurity](https://amzn.to/4mtCzwF)
-- 3. [Fancy Bear Goes Phishing: The Dark History of the Information Age, in Five Extraordinary Hacks](https://amzn.to/4mwS4nL)
-- 4. [Cybersecurity Is Everybody's Business: Solve the Security Puzzle for Your Small Business and Home](https://amzn.to/3Uw8KzP)
+- 1. [Creating a Small Business Cybersecurity Program: A Non-Technical Guide for Small Business Owners](https://amzn.to/4mR11YK)
+- 2. [Cybersecurity: The Beginner's Guide: A comprehensive guide to getting started in cybersecurity](https://amzn.to/3VNvR9u)
+- 3. [Fancy Bear Goes Phishing: The Dark History of the Information Age, in Five Extraordinary Hacks](https://amzn.to/4gZ1RRY)
+- 4. [Cybersecurity Is Everybody's Business: Solve the Security Puzzle for Your Small Business and Home](https://amzn.to/3KF6unX)
 
 ---
 
