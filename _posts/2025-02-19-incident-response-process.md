@@ -96,17 +96,17 @@ In this phase, we can also incorporate auditing of our network and use a penetra
 
 ### Below is a list of reading material to help your Incident Response process for your organization:
 
-- [Incident Response for Windows: Adapt effective strategies for managing sophisticated cyberattacks targeting Windows systems by Anatoly Tykushin (Author), Svetlana Ostrovskaya (Author)](https://amzn.to/45yANVh)
+- [Incident Response for Windows: Adapt effective strategies for managing sophisticated cyberattacks targeting Windows systems by Anatoly Tykushin (Author), Svetlana Ostrovskaya (Author)](https://amzn.to/42mPj0u)
   
-- [Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. Paperback – August 3, 2014 by Don Murdoch GSE (Author)](https://amzn.to/4l7dgQ5)
+- [Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. Paperback – August 3, 2014 by Don Murdoch GSE (Author)](https://amzn.to/4nrzf66)
   
-- [Digital Forensics and Incident Response: Incident response tools and techniques for effective cyber threat response, 3rd Edition 3rd ed. Edition by Gerard Johansen (Author)](https://amzn.to/4535m5v)
+- [Digital Forensics and Incident Response: Incident response tools and techniques for effective cyber threat response, 3rd Edition 3rd ed. Edition by Gerard Johansen (Author)](https://amzn.to/48e2DIq)
   
-- [Incident Response Techniques for Ransomware Attacks: Understand modern ransomware attacks and build an incident response strategy to work through them by Oleg Skulkin (Author)](https://amzn.to/3J0eUpa)
+- [Incident Response Techniques for Ransomware Attacks: Understand modern ransomware attacks and build an incident response strategy to work through them by Oleg Skulkin (Author)](https://amzn.to/4mPGLqp)
   
-- [Intelligence-Driven Incident Response: Outwitting the Adversary 1st Edition by Scott J. Roberts (Author), Rebekah Brown (Author)](https://amzn.to/4oeq0a9)
+- [Intelligence-Driven Incident Response: Outwitting the Adversary 1st Edition by Scott J. Roberts (Author), Rebekah Brown (Author)](https://amzn.to/4mLswCY)
   
-- [Incident Response in the Age of Cloud: Techniques and best practices to effectively respond to cybersecurity incidents by Dr Erdal Ozkaya (Author)](https://amzn.to/4oleqtM)
+- [Incident Response in the Age of Cloud: Techniques and best practices to effectively respond to cybersecurity incidents by Dr Erdal Ozkaya (Author)](https://amzn.to/46zasHn)
 
 
 

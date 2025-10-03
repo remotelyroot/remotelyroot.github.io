@@ -120,6 +120,14 @@ Now that you know the five areas of Facebook’s Privacy Checkup, here’s exact
 
 ---
 
+## Books! We love books!
+
+- [Extreme Privacy: What It Takes to Disappear by Michael Bazzell](https://amzn.to/3VJEZvU)
+
+- [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data by Kevin Mitnick, Robert Vamosi, et al.](https://amzn.to/4nvvlJp)
+
+---
+
 📌 **Related Privacy Guide**  
 Want to lock down more than just Facebook? Check out our step-by-step guide on [How to Make Your Instagram Profile Private](/posts/Instagram-Privacy-Guide/) to keep your photos and reels safe too.
 
