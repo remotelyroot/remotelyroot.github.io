@@ -12,4 +12,23 @@ The Domain Name Service, commonly referred to as DNS is the, without exagerratio
 
 ### What to understand about DNS
 
-Okay so, lets reallllllly tackle DNS and discuss the blueprints of this 'backbone' of the internet. I like to start with some history, knowing when and most specifically, why DNS was created. 
+In the beginning of time
+
+With the rapid growth of internet from the 70s into the 80s and more and more sites were being created, a problem evolved, there became a basic need for a consistent name space which would be used for referring to resources.
+
+
+
+Sites were accessed by typing in an Internet Protocl (IP) address to access its contents, which is different today where we type on a domain name. Imagine having to remember 98.87.170.71 for amazon.com, 157.240.241.35 for facebook.com, or 3.173.21.90 for bankofamerica.com, 
+
+Well, DNS solves that problem translating the IP address into a domain name and this was implemented in November of 1983 where Jon Postel, Paul Mockapetris and Craig Partridge published RFC 882 (OpenNet Initiative, 2000).
+
+
+
+
+
+---
+
+### Citations
+
+OpenNet Initiative. (2000). A brief history of the domain name system. Harvard University Berkman Klein Center.
+https://cyber.harvard.edu/icann/pressingissues2000/briefingbook/dnshistory.html
