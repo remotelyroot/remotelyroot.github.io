@@ -55,6 +55,7 @@ You can imagine the IR process as a perpetual loop, always improving your organi
 5. Recovery
 6. Lessons Learned
 
+
 ## #1 Preparation
 
 The preparation phase will be the foundation of your IR process. If you do not properly prepare for incidents you’re bound to fail, even though failure can provide some of the best lessons. Realistically, failure in our industry could lead to the loss of millions of dollars, whether it's the loss of intellectual property or reputation impacting sales, or a ransomware attack. 
@@ -99,9 +100,9 @@ Last but not least, lessons learned from the incident are crucial in perfecting 
 
 Below is a list of reading material to help your Incident Response process for your organization:
 
-Incident Response for Windows: Adapt effective strategies for managing sophisticated cyberattacks targeting Windows systems by Anatoly Tykushin (Author), Svetlana Ostrovskaya (Author) (https://amzn.to/41kt5Mq)
-Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. Paperback – August 3, 2014 by Don Murdoch GSE (Author) (https://amzn.to/4hDWJC6)
-Digital Forensics and Incident Response: Incident response tools and techniques for effective cyber threat response, 3rd Edition 3rd ed. Edition by Gerard Johansen (Author) (https://amzn.to/4hJ1Wst)
-Incident Response Techniques for Ransomware Attacks: Understand modern ransomware attacks and build an incident response strategy to work through them by Oleg Skulkin (Author) (https://amzn.to/4hJIHPx)
-Intelligence-Driven Incident Response: Outwitting the Adversary 1st Edition by Scott J. Roberts (Author), Rebekah Brown (Author) (https://amzn.to/4i6A410)
-Incident Response in the Age of Cloud: Techniques and best practices to effectively respond to cybersecurity incidents by Dr Erdal Ozkaya (Author) (https://amzn.to/41mXPww)
+  - Incident Response for Windows: Adapt effective strategies for managing sophisticated cyberattacks targeting        Windows systems by Anatoly Tykushin (Author), Svetlana Ostrovskaya (Author) (https://amzn.to/41kt5Mq)
+  - Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. Paperback – August 3, 2014 by Don Murdoch GSE (Author) (https://amzn.to/4hDWJC6)
+  - Digital Forensics and Incident Response: Incident response tools and techniques for effective cyber threat response, 3rd Edition 3rd ed. Edition by Gerard Johansen (Author) (https://amzn.to/4hJ1Wst)
+  - Incident Response Techniques for Ransomware Attacks: Understand modern ransomware attacks and build an incident response strategy to work through them by Oleg Skulkin (Author) (https://amzn.to/4hJIHPx)
+  - Intelligence-Driven Incident Response: Outwitting the Adversary 1st Edition by Scott J. Roberts (Author), Rebekah Brown (Author) (https://amzn.to/4i6A410)
+  - Incident Response in the Age of Cloud: Techniques and best practices to effectively respond to cybersecurity incidents by Dr Erdal Ozkaya (Author) (https://amzn.to/41mXPww)
