@@ -84,23 +84,23 @@ logos:
 # Section Blog Settings
 blog:
   enable: true
-  blog_title: Read Me
+  blog_title: What's New
 
 
 #-------------------------------
 # Tags Section Settings
-tags_section:
-  enable: true
-  tags_section_title: Hacker’s Haven
-  tags:
-    - tag: "Programming"
-      image: "/images/20.jpg"
-    - tag: "Linux"
-      image: "/images/21.jpg"
-    - tag: "Productivity"
-      image: "/images/22.jpg"
-    - tag: "Security"
-      image: "/images/23.jpg"
+# tags_section:
+  # enable: true
+  # tags_section_title: Browse by Topic
+  # tags:
+    # - tag: "Programming"
+    #   image: "/images/20.jpg"
+    # - tag: "Linux"
+    #   image: "/images/21.jpg"
+    # - tag: "Productivity"
+    #   image: "/images/22.jpg"
+    # - tag: "Security"
+    #   image: "/images/23.jpg"
 
 
 #-------------------------------
