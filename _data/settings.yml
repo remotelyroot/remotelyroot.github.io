@@ -178,9 +178,9 @@ contact:
 # Comment Section (Disqus)
 disqus:
   enable: true
-  disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
-  disqus_title: Start the conversation
-  disqus_button_text: Show Comments
+  disqus_identifier: "remotelyroot" # Add your shortname for Disqus Comment. For example anvod-studio-test
+  disqus_title: "Joion the Discussion"
+  disqus_button_text: "Show Comments"
 
 
 #-------------------------------
