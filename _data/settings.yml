@@ -57,8 +57,8 @@ hero:
     My goal is to provide valuable information that you can take and grow your own expertise. To share what I have learned from my personal experience as a detection engineer and cybersecurity enthusiast.
 
     In this blog, I will break down topics (for the muggles), sharing ideas, discuss tools & malware, and provide educational content. Find this blog as a tool for yourself and to share with others. 
-  hero_image: /images/01.jpg
-  hero_image_caption: My creative space, where masterpieces are born
+  hero_image: /images/rr_logo.png
+  hero_image_caption: Enter the matrix.
   hero_button_text: Let’s Work Together
   hero_button_link: '/contact/'
 
@@ -68,16 +68,16 @@ logos:
   enable: true
   logos_title: Nerd Stuff
   logo_image:
-    - alt: "Game Boy"
-      image: "/images/1000.jpg"
-    - alt: "Super Nintendo"
-      image: "/images/1001.jpg"
-    - alt: "Keyboard"
-      image: "/images/1002.jpg"
-    - alt: "Headphones"
-      image: "/images/1003.jpg"
-    - alt: "Mouse"
-      image: "/images/1004.jpg"
+    - alt: "Laptop"
+      image: "/images/laptop_carousel.png"
+    - alt: "Code Editor"
+      image: "/images/code_carousel.png"
+    - alt: "USB Drive"
+      image: "/images/usb_carousel.png"
+    - alt: "Malware"
+      image: "/images/malware_carousel.png"
+    - alt: "Switch"
+      image: "/images/switch_carousel.png"
 
 
 #-------------------------------
@@ -157,7 +157,7 @@ social:
 - {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
 - {icon: "fa-brands fa-reddit-alien", name: "Reddit", link: "https://reddit.com"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/remotelyroot"}
 - {icon: "fa-solid fa-rss", name: "Rss", link: "/feed.xml"}
 
 # Example of adding a new link to the sidebar and footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
