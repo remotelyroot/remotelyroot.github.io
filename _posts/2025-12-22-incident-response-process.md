@@ -29,17 +29,6 @@ keywords:
   - containment eradication recovery
   - SOC incident response
   - ransomware incident response
-readingTime: "12 min"
-difficulty: "Intermediate"
-seo:
-  canonical: "https://remotelyroot.com/incident-response-process-sans-6-step-guide"
-  ogTitle: "Incident Response Process: The SANS 6-Step Cybersecurity Framework"
-  ogDescription: "A practical breakdown of the SANS Incident Response Process, covering preparation, identification, containment, eradication, recovery, and lessons learned."
-  ogType: "article"
-  ogSiteName: "Remotely Root"
-  twitterCard: "summary_large_image"
-  twitterTitle: "Incident Response Process Explained | SANS 6-Step Guide"
-  twitterDescription: "Master the SANS Incident Response Process with real-world examples and blue team best practices."
 ---
 
 
