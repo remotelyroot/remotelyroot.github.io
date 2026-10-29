@@ -212,17 +212,17 @@ I chose the following:
 - Tactic: Defense Evasion (T10005) with Technique: Obfuscated Files or Information (T1027) due to the obfuscation, Base64 encoding and carets escaping alphanumeric characters in the curl statement.
 - Tactic: Command and Control (TA0011) with Technique: Ingress Tool Transfer (T1105) due to the malicious executable being downloaded to the machine. 
 
-![MITRE Techniques](/post_images/sus_ps_activity_about_rule_mitre.png)
+![MITRE Techniques](post_images/sus_ps_activity_about_rule_mitre.png)
 
 ### We have an Alert!!! 
 
 Okay so, I executed the command for a second time on ```WIN11-011``` and an alert generated with the expected information. We can see in the alert the parent commandline argument with the Base64 encoded string following the child execution of curl.exe to the malicious domain.
 
-![Alerts](/post_images/sus_ps_activity_alerts.png)
+![Alerts](post_images/sus_ps_activity_alerts.png)
 
-![Alerts_2](/post_images/sus_ps_activity_alerts_2.png)
+![Alerts_2](post_images/sus_ps_activity_alerts_2.png)
 
-![Alerts_3](/post_images/sus_ps_activity_alerts_3.png)
+![Alerts_3](post_images/sus_ps_activity_alerts_3.png)
 
 ## Wrapping Up!!
 
