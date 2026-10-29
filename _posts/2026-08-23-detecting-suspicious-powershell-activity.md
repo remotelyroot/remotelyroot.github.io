@@ -218,11 +218,11 @@ I chose the following:
 
 Okay so, I executed the command for a second time on ```WIN11-011``` and an alert generated with the expected information. We can see in the alert the parent commandline argument with the Base64 encoded string following the child execution of curl.exe to the malicious domain.
 
-![Alerts](post_images/sus_ps_activity_alerts.png)
+![Alerts](/post_images/sus_ps_activity_alerts.png)
 
-![Alerts_2](post_images/sus_ps_activity_alerts_2.png)
+![Alerts_2](/post_images/sus_ps_activity_alerts_2.png)
 
-![Alerts_3](post_images/sus_ps_activity_alerts_3.png)
+![Alerts_3](/post_images/sus_ps_activity_alerts_3.png)
 
 ## Wrapping Up!!
 
