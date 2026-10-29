@@ -89,7 +89,7 @@ However, these commandline arugments may appear "childlike" and very simple, and
 
 ## PowerShell - Obfuscation Techniques
 
-Obfuscation is the practice of making something difficult to understand. In this instance I will cover how Base64 encoding is using to obfuscate PowerShell arguments as well as the use of carrots (^) to evade EDR and download suspicious/malicious files. This is a common practice by threat actors especially in modern environments. Most and if not all modern EDR will detect anamolous use of the above download cradles.
+Obfuscation is the practice of making something difficult to understand. In this instance I will cover how Base64 encoding is using to obfuscate PowerShell commands as well as the use of carrots (^) to evade EDR and download suspicious/malicious files. This is a common practice by threat actors especially in modern environments. Most and if not all modern EDR will detect anamolous use of the above download cradles.
 
 ### Base64 and PowerShell
 
@@ -208,7 +208,7 @@ Advanced settings such as setting the MITRE ATT&CK Tactics and Techniques is gre
 
 I chose the following:
 
-- Tactic: Execution (TA0002) with Technique: Command Scripting Interpreter (T1059) due to the use of PowerShell executing command line arguments.
+- Tactic: Execution (TA0002) with Technique: Command Scripting Interpreter (T1059) due to the use of PowerShell execution.
 - Tactic: Defense Evasion (T10005) with Technique: Obfuscated Files or Information (T1027) due to the obfuscation, Base64 encoding and carets escaping alphanumeric characters in the curl statement.
 - Tactic: Command and Control (TA0011) with Technique: Ingress Tool Transfer (T1105) due to the malicious executable being downloaded to the machine. 
 
@@ -226,6 +226,6 @@ Okay so, I executed the command for a second time on ```WIN11-011``` and an aler
 
 ## Wrapping Up!!
 
-Whoa that was a loooot! We covered various download cradles where PowerShell can download files from the internet. Such as Invoke-WebRequest, Invoke-Expression, Curl, and Start-BitsTransfer. We also took the time to cover obfuscation and how threat actors use Base64 to encode the commandline argument. We also touched on how the caret can be used to escape characters, another type of obfuscation to evade EDR. Lastly, we turned this knowledge into a detection using Elastic. 
+Whoa that was a loooot! We covered various download cradles where PowerShell can download files from the internet. Such as Invoke-WebRequest, Invoke-Expression, Curl, and Start-BitsTransfer. We also took the time to cover obfuscation and how threat actors use Base64 to encode the command. We also touched on how the caret can be used to escape characters, another type of obfuscation to evade EDR. Lastly, we turned this knowledge into a detection using Elastic. 
 
 Thank you for taking the time to read this article and if you have any questions, please send me an email.
